@@ -4,8 +4,6 @@
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KYrUu.png",
 "url": "https://zhort.link/bzu",
 "groups": [
-
-
 {
 "name": "ดิจิตอลทีวี",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KYpye.png",
@@ -21,31 +19,31 @@
 {
 "name": "บันเทิง",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KY88Z.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
 "playInNatPlayer": "tot"
 },
 {
 "name": "หนัง",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KYa2t.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สาระความรู้",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KzrJ2.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สำหรับเด็ก",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KzV5y.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ทีวีต่างประเทศ",
 "image": "https://sv1.picz.in.th/images/2021/07/29/2KzHh1.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
 "playInNatPlayer": "tot"
 },
 
