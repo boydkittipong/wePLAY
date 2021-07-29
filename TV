@@ -102,6 +102,12 @@
 "url": "https://www.we-play.live/watching/tv/jkn-18",
 "playInNatPlayer": "tot"
 },
+{
+"name": "TOPNEWS",
+"image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
+"url": "https://www.we-play.live/watching/tv/topnews",
+"playInNatPlayer": "tot"
+},
 
 
 ]
