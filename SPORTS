@@ -1,0 +1,220 @@
+{
+"name": "ช่องกีฬา",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrulTg.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/sports",
+"stations": [
+
+{
+"name": "TRUE SPORT HD1",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-tsport1.png",
+"url": "https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD2",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-tsport2.png",
+"url": "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD3",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD4",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-tsport4.png",
+"url": "https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Sport 2",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.we-play.live/watching/tv/true-sports-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.we-play.live/watching/tv/true-sports-5",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 6",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.we-play.live/watching/tv/true-sports-6",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.we-play.live/watching/tv/true-sports-7",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 1",
+"image": "https://sv1.picz.in.th/images/2020/12/23/jpIuDV.jpg",
+"url": "https://www.we-play.live/watching/tv/bein-sports-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beIN SPORTS 2",
+"image": "https://sv1.picz.in.th/images/2020/12/23/jpI6LQ.jpg",
+"url": "https://www.we-play.live/watching/tv/bein-sports-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NBA HD",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",
+"url": "https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TENNIS HD",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-tennis.png",
+"url": "https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "GOLF CHANNEL HD",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-golf.png",
+"url": "https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NFL Network",
+"image": "https://we-play.live/uploads/posters/-poster1602704214.jpeg",
+"url": "https://www.we-play.live/watching/tv/nfl-network",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Golf Channel Thailand HD2",
+"image": "https://we-play.live/uploads/posters/golf-channel-thailand-hd2-poster.jpg",
+"url": "https://www.we-play.live/watching/tv/golf-channel-thailand-hd2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT HD1",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-foxsports1.png",
+"url": "https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT 2",
+"image": "https://www.img10.xyz/assets/img/ch_logo/sd-foxsports2.png",
+"url": "https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT 3",
+"image": "https://www.img10.xyz/assets/img/ch_logo/sd-foxsports3.png",
+"url": "https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 1",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 2",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 3",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 4",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 5",
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT SPORT HD1",
+"image": "https://we-play.live/uploads/posters/bt-sport-1-hd-poster1602800664.jpeg",
+"url": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT SPORT HD2",
+"image": "https://we-play.live/uploads/posters/bt-sport-2-hd-poster1602800682.jpeg",
+"url": "https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT Sport 3 HD",
+"image": "https://we-play.live/uploads/posters/bt-sport-3-hd-poster1602800702.jpeg",
+"url": "https://www.we-play.live/watching/tv/bt-sport-3-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MUTV",
+"image": "https://img.apksum.com/f4/com.manutd.mutv/2.8.0/icon.png",
+"url": "https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Galatasaray TV",  
+"image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg?fit=900%2C451",  
+"url": "https://galatasaray.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "WWE Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/wwe-269x151.png",
+"url": "https://ustvgo.tv/wwe-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic Channel",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg",
+"url": "https://ustvgo.tv/olympic-channel/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Arena Sport 1",
+"image": "https://we-play.live/uploads/posters/arena-sport-1-poster1602801264.jpeg",
+"url": "https://www.we-play.live/watching/tv/arena-sport-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Eurosport Asia",
+"image": "https://we-play.live/uploads/posters/eurosport-asia-poster1602801068.jpeg",
+"url": "https://www.we-play.live/watching/tv/eurosport-asia",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ACC Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2021/06/accn.jpg",
+"url": "https://ustvgo.tv/acc-network/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MLB Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/MLB.png",
+"url": "https://ustvgo.tv/mlb-network/",
+"playInNatPlayer": "tot"
+},
+
+
+]
+}
