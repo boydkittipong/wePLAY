@@ -51,7 +51,7 @@
 {
 "name": "CH5 HD",
 "image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch5-hd",
+"url": "https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -106,6 +106,205 @@
 "name": "TOPNEWS",
 "image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
 "url": "https://www.we-play.live/watching/tv/topnews",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TNN16",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-tnn24.png",
+"url": "https://www.tnnthailand.com/live",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH8",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch8.png",
+"url": "https://www.adintrend.tv/hd/m/ch33",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NEWS 1",
+"image": "https://www.img05.xyz/assets/img/ch_logo/NEWS1.png",
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TPTV",
+"image": "https://www.img05.xyz/assets/img/ch_logo/TPTVLOGO.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "CTB",
+"image": "http://thaiip.tv/tvlogo2/ctb.png",
+"url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w503199585.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Channel 8",
+"image": "https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",
+"url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "M Channel",
+"image": "https://www.img05.xyz/assets/img/ch_logo/m-channel.png",
+"url": "http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TVB DRAMA THAI",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
+"url": "https://www.mvtv.co.th/channel/tvb-thai",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX ไทย",
+"image": "https://we-play.live/uploads/posters/-poster1602704474.jpeg",
+"url": "https://www.we-play.live/watching/tv/fox-thai",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX Movies",
+"image": "https://we-play.live/uploads/posters/-poster1602704489.jpeg",
+"url": "https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX Action Movies",
+"image": "https://we-play.live/uploads/posters/-poster1602704499.jpeg",
+"url": "https://www.we-play.live/watching/tv/fox-action-movies",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX Family Movies",
+"image": "https://we-play.live/uploads/posters/-poster1602704505.jpeg",
+"url": "https://www.we-play.live/watching/tv/fox-family-movies",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX Life",
+"image": "https://we-play.live/uploads/posters/-poster1602704516.jpeg",
+"url": "https://www.we-play.live/watching/tv/fox-life",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Food Network",
+"image": "https://we-play.live/uploads/posters/-poster1602704522.jpeg",
+"url": "https://www.we-play.live/watching/tv/food-network",
+"playInNatPlayer": "tot"
+},
+{
+"name": "AXN HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704538.jpeg",
+"url": "https://www.we-play.live/watching/tv/axn-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Discovery Asia",
+"image": "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
+"url": "https://www.we-play.live/watching/tv/discovery-asia",
+"playInNatPlayer": "tot"
+},
+{
+"name": "History H2",
+"image": "https://we-play.live/uploads/posters/history-h2-poster1602705634.jpeg",
+"url": "https://www.we-play.live/watching/tv/history-h2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "History HD",
+"image": "https://we-play.live/uploads/posters/history-hd-poster1602705667.jpeg",
+"url": "https://www.we-play.live/watching/tv/history-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "X-Zyte",  
+"image": "https://we-play.live/uploads/posters/-poster1602704657.jpeg",  
+"url": "https://we-play.tv/watching/tv/true-xzyte",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLUEANT ENTERTAINMENT",  
+"image": "https://we-play.live/uploads/posters/-poster1602704527.jpeg",  
+"url": "https://we-play.tv/watching/tv/blueant-entertainment",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLUEANT EXTREME",  
+"image": "https://we-play.live/uploads/posters/-poster1602704533.jpeg",  
+"url": "https://we-play.tv/watching/tv/blueant-extreme",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel",
+"image": "https://we-play.live/uploads/posters/discovery-channel-poster1602705554.jpeg",
+"url": "https://we-play.tv/watching/tv/discovery-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia",
+"image": "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
+"url": "https://we-play.tv/watching/tv/discovery-asia",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Graphic",
+"image": "https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",
+"url": "https://we-play.tv/watching/tv/national-geographic",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Wild",
+"image": "https://we-play.live/uploads/posters/nat-geo-wild-poster1602705760.jpeg",
+"url": "https://we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animal Planet",
+"image": "https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",
+"url": "https://we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love Nature",
+"image": "https://we-play.live/uploads/posters/lovenature-4k-poster1602705702.jpeg",
+"url": "https://we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Asian Food Network",
+"image": "https://www.we-play.tv//uploads/posters/asian-food-channel-poster1602705524.jpeg",
+"url": "https://we-play.tv/watching/tv/asian-food-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Waku Waku Japan",
+"image": "https://we-play.live/uploads/posters/-poster1602704546.png",
+"url": "https://we-play.tv/watching/tv/waku-waku-japan",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TLC",
+"image": "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
+"url": "https://we-play.tv/watching/tv/tlc-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club",
+"image": "https://we-play.live/uploads/posters/cartoon-club-poster1602706088.jpeg",
+"url": "https://www.livedoomovie.com/02_Cartoon_Club_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -322,6 +521,96 @@
 "image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/MLB.png",
 "url": "https://ustvgo.tv/mlb-network/",
 "playInNatPlayer": "tot"
+},
+{
+"name": "&FlixHd",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTok84GbwFSi9l3qYc4KaHZNoEMHtQaMjh46el3e77M6YsOMssw&usqp=CAU",
+"url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "THE CW",  
+"image": "https://icon-library.com/images/cw-icon/cw-icon-2.jpg",  
+"url": "https://ustvgo.tv/the-cw-live-streaming-free/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Cinemax",  
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/04/cinemax.jpg",  
+"url": "https://ustvgo.tv/cinemax/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Lifetime Movies",  
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/lifetimeM.jpeg",  
+"url": "https://ustvgo.tv/lifetime-movies/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CNN",
+"image": "https://we-play.live/uploads/posters/cnn-poster1602706333.jpeg",
+"url": "https://www.we-play.live/watching/tv/cnn",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NHK World",
+"image": "https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",
+"url": "https://www.we-play.live/watching/tv/nhk-world",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ABC NEWS",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",
+"url": "https://onvision.info/channels/abcnews.html",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC News",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",
+"url": "https://easyview.eu/watch.php?stream=nbcb",
+"playInNatPlayer": "true"
+},
+{
+"name": "Al Jazeera",
+"image": "https://themaydan.com/wp-content/uploads/2018/02/aljazeera.jpg",
+"url": "https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky News",
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",
+"url": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bloomberg TV",
+"image": "https://nowontv.info/img/bloomberg.png",
+"url": "https://onvision.info/channels/bloombergtv.html",
+"playInNatPlayer": "true"
+},
+{
+"name": "CHANNEL NEWS ASIA",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-28-014942.jpg",
+"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "France 24",
+"image": "https://i.imgur.com/gDOEH0A.png",
+"url": "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Pet Collective",
+"image": "https://www.viewlift.com/common/assets/img/clients/thepetcollective.png",
+"url": "https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Travel channel",
+"image": "https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/Travel-Channel.jpg?c067c8",
+"url": "https://ustvgo.tv/travel-channel-live-free/",
+"playInNatPlayer": "true"
 },
 
 
