@@ -165,6 +165,18 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "LFC TV",  
+"image": "https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg",  
+"url": "https://www.we-play.live/watching/tv/lfc-tv",
+"playInNatPlayer": "true"
+},
+{
+"name": "MUTV",  
+"image": "https://we-play.live/uploads/posters/mutv-poster1602800965.jpeg",  
+"url": "https://www.we-play.live/watching/tv/mutv",
+"playInNatPlayer": "true"
+},
+{
 "name": "Galatasaray TV",  
 "image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg?fit=900%2C451",  
 "url": "https://galatasaray.com/",
