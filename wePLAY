@@ -1,0 +1,54 @@
+{
+"name": "wePLAY",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KYrUu.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/sports",
+"stations": [
+
+
+{
+"name": "ดิจิตอลทีวี",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KYpye.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "กีฬา",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KYXcP.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "บันเทิง",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KY88Z.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "หนัง",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KYa2t.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สาระความรู้",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KzrJ2.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สำหรับเด็ก",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KzV5y.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ทีวีต่างประเทศ",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2KzHh1.png",
+"url": "",
+"playInNatPlayer": "tot"
+},
+
+
+]
+}
