@@ -308,6 +308,48 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Boomerang",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Boomerang.png",
+"url": "https://ustvgo.tv/boomerang/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "DisneyJr",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/disney-jr-768x432-1.png",
+"url": "https://ustvgo.tv/disneyjr/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nicktoons",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/nicktoons.png",
+"url": "https://ustvgo.tv/nicktoons/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "DisneyXD",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/disney-xd-768x432-1.png",
+"url": "https://ustvgo.tv/disneyxd/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Disney Channel",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/disney-269x151.png",
+"url": "https://ustvgo.tv/disney-channel-live-streaming-free/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nickelodeon",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Nickelodeon_2009.png",
+"url": "https://ustvgo.tv/nickelodeon-live-streaming-free/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Cartoon Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/cartoon-network.jpg",
+"url": "https://ustvgo.tv/cartoon-network/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "TRUE SPORT HD1",
 "image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
 "url": "https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
@@ -523,6 +565,18 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Fox Sports 2",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fs2-269x151.png",
+"url": "https://ustvgo.tv/fox-sports-2/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN2",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/espn2-269x151.png",
+"url": "https://ustvgo.tv/espn2-live/",
+"playInNatPlayer": "true"
+},
+{
 "name": "&FlixHd",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTok84GbwFSi9l3qYc4KaHZNoEMHtQaMjh46el3e77M6YsOMssw&usqp=CAU",
 "url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
@@ -544,6 +598,12 @@
 "name": "Lifetime Movies",  
 "image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/lifetimeM.jpeg",  
 "url": "https://ustvgo.tv/lifetime-movies/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TBS",  
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/tbs-269x151.png",  
+"url": "https://ustvgo.tv/tbs-channel-live-free/",
 "playInNatPlayer": "tot"
 },
 {
@@ -610,6 +670,18 @@
 "name": "Travel channel",
 "image": "https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/Travel-Channel.jpg?c067c8",
 "url": "https://ustvgo.tv/travel-channel-live-free/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/mtv.jpg",
+"url": "https://ustvgo.tv/mtv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "GSN",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/GSN.jpg",
+"url": "https://ustvgo.tv/gsn/",
 "playInNatPlayer": "true"
 },
 
