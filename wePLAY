@@ -6,6 +6,13 @@
 "stations": [
 
 
+
+{
+"name": "epl1",
+"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"url": "https://www.doofootball.com/dootv/live/epl1",
+"playInNatPlayer": "tot"
+},
 {
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
