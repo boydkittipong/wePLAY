@@ -7,12 +7,7 @@
 
 
 
-{
-"name": "True Premier Football HD 1",
-"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
-"url": "https://www.doofootball.com/dootv/live/epl1#main_dootv",
-"playInNatPlayer": "tot"
-},
+
 {
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
@@ -356,6 +351,72 @@
 "url": "https://ustvgo.tv/cartoon-network/",
 "playInNatPlayer": "tot"
 },
+
+
+{
+"name": "True Premier Football HD 1",
+"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 2",
+"image": "https://we-play.live/uploads/posters/-poster1602703981.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 3",
+"image": "https://we-play.live/uploads/posters/-poster1602703991.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-3",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 4",
+"image": "https://we-play.live/uploads/posters/-poster1602704002.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-4",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 5",
+"image": "https://we-play.live/uploads/posters/-poster1602704009.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-5",
+"playInNatPlayer": "tot"
+},
+
+{
+"name": "Premier Football HD 1",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 2",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 3",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 4",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 5",
+"image": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+
+
+
 {
 "name": "TRUE SPORT HD1",
 "image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
@@ -417,6 +478,18 @@
 "name": "beIN SPORTS 2",
 "image": "https://we-play.live/uploads/posters/-poster1602703712.png",
 "url": "https://www.we-play.live/watching/tv/bein-sports-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BEIN SPORT HD 1",
+"image": "https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",
+"url": "https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BEIN SPORT HD 2",
+"image": "https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",
+"url": "https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -525,6 +598,12 @@
 "name": "MUTV",  
 "image": "https://we-play.live/uploads/posters/mutv-poster1602800965.jpeg",  
 "url": "https://www.we-play.live/watching/tv/mutv",
+"playInNatPlayer": "true"
+},
+{
+"name": "ChelseaTV",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/uk-chelseatv.jpg",  
+"url": "https://www.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
