@@ -7,7 +7,7 @@
 
 {
 "name": "Siamsport",
-"image": "hhttps://lh3.googleusercontent.com/proxy/QvwGj-Ydj-R1fH600r1j55noZtf6OPeK-6FZxSZLEgxmKCj9Q2fcDQiSvdtb_7cbamkygaHnZ-2JuPipAwY_ui9JP-g2LmRlDgVmNv_5q-p4vQKzFg",
+"image": "https://siamsport.tv/assets/images/shared/logo.png",
 "url": "https://dooball888.com/dooball/?id=2171841",
 "playInNatPlayer": "tot"
 },
@@ -15,6 +15,12 @@
 "name": "bein1",
 "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
 "url": "https://dooball888.com/dooball/?id=2171902",
+"playInNatPlayer": "tot"
+},
+{
+"name": "bein2",
+"image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",
+"url": "https://dooball888.com/dooball/?id=2171903",
 "playInNatPlayer": "tot"
 },
 {
