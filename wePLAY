@@ -429,7 +429,7 @@ https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/gfqU150020.png",BTSport3
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BT Sport Espn
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/CFU1156962.png" group-title="WorldSports",BT Sport Espn
 https://uload.ru.com/cdn/premium34/chunks.m3u8|Referer=https://player.licenses4.me/
 
 
@@ -439,39 +439,39 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://ballmun.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/sport-tv-3-poster1602801156.jpeg",Sport TV 3
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/evz2156974.png",Sport TV 3
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv3/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/sport-tv-4-poster1602801172.jpeg",Sport TV 4
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/IdB0156975.png",Sport TV 4
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv4/chunks.m3u8|Referer=https://player.licenses4.me
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.passionateinmarketing.com/wp-content/uploads/2020/11/41lChb5QKL.png",ESPN 1 Netherland
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Netherland
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/espn-2-netherland-poster.jpg",ESPN 2 Netherland
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/MNWT156967.png",ESPN 2 Netherland
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports2nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/espn-3-netherland-poster.jpg",ESPN 3 Netherland
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/z3Z0156968.png",ESPN 3 Netherland
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports3nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/espn-4-netherland-poster.jpg",ESPN 4 Netherland
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/AGju156969.png",ESPN 4 Netherland
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports4nl/chunks.m3u8|Referer=https://player.licenses4.me
 
 
-#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://we-play.live/uploads/posters/astro-supersport-1-poster1602800808.jpeg" group-title="Sports",Astro Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://www.i-pic.info/i/CTHO156963.png" group-title="Sports",Astro Super Sport 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://we-play.live/uploads/posters/astro-supersport-2-poster1602800836.jpeg" group-title="Sports",Astro Super Sport 2
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://www.i-pic.info/i/Vc5e156964.png" group-title="Sports",Astro Super Sport 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://we-play.live/uploads/posters/astro-supersport-3-poster1602800856.jpeg" group-title="Sports",Astro Super Sport 3
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://www.i-pic.info/i/R7EB156965.png" group-title="Sports",Astro Super Sport 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://we-play.live/uploads/posters/astro-supersport-4-poster1602800887.jpeg" group-title="Sports",Astro Super Sport 4
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://www.i-pic.info/i/wiCS156966.png" group-title="Sports",Astro Super Sport 4
 http://203.154.243.89:21204/nakhon
 
 
