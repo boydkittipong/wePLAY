@@ -178,10 +178,17 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truemoviehits/chunks.
 
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/CWAO148414.png",MOVIES | True Film 1 (TH)
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",MOVIES | HBO (EN)
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",MOVIES | HBO (TH)
+http://ip2121.com:8081/web1/hbo/playlist.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",MOVIES | Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="Live Tv",Star Movies  HD
+http://103.167.190.250/hls/starmovies.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/T8AR152036.png",MOVIES | Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/djbR155312.png",MOVIES | Thrill
@@ -197,6 +204,19 @@ https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|User-Agent=ex
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/HNdC149435.png",Lifetime (TH)
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
+http://103.167.190.250/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Live Tv",MNX
+http://103.167.190.250/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Live Tv",MNX+
+http://103.167.190.250/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
+http://103.167.190.250/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="Live Tv", Star World Premiere FHD
+http://103.167.190.250/hls/star-worldhd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
