@@ -198,6 +198,10 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-korean-more/chun
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/OUYP156891.png",CCM
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/ccm/chunks.m3u8|Referer=https://player.licenses4.me
 
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FusoMOV 2
+http://203.159.95.172:8081/live/banner003/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -265,10 +269,7 @@ http://103.167.190.250/hls/starmovies.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/djbR155312.png",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FusoMOV 1
-http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FusoMOV 2
-http://203.159.95.172:8081/live/banner003/playlist.m3u8
+
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL
 http://203.154.243.89:28010/pa/hchannel.ts
 
