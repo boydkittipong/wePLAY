@@ -137,7 +137,7 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/dreamworks/chunks.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/iZ8P156928.png",ick Jr.
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/iZ8P156928.png",Nick Jr.
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickjr/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
@@ -315,9 +315,9 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/tlc/chunks.m3u8|Referer
 
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",True Explore Wild
 https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",H
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",History
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",H2
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",History 2
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/F8JO149429.png",Asian Food Channel
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
