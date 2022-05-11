@@ -451,7 +451,7 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv4/chunks.m3u8|Referer
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8?nimblesessionid=18927436&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6MTI6MjEgQU0maGFzaF92YWx1ZT04emdhaEZ3YWZ0cmFvUnlMYlVlUTNnPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/MNWT156967.png",ESPN 2 Netherland
