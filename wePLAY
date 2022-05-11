@@ -134,12 +134,12 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/aniplus/chunks.m3u8?nimblesess
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/9wtC156927.png",Dreamworks
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/dreamworks/chunks.m3u8|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/dreamworks/chunks.m3u8?nimblesessionid=18926755&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6MDk6MDcgQU0maGFzaF92YWx1ZT1QKzBubGdCZVFNS3pFeTZ1WC9hb01RPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/iZ8P156928.png",Nick Jr.
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickjr/chunks.m3u8|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickjr/chunks.m3u8?nimblesessionid=18926755&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6MDk6MDcgQU0maGFzaF92YWx1ZT1QKzBubGdCZVFNS3pFeTZ1WC9hb01RPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
 http://203.154.243.89:28010/pa/umi.ts
