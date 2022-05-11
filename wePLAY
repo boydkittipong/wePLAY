@@ -295,24 +295,25 @@ http://103.167.190.250/hls/movies-now.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/V8Ee156895.png",Food Network
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8?nimblesessionid=18933680&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NDc6MDAgQU0maGFzaF92YWx1ZT1rekRsOFFudCtMK1QrSmVwSDBka0tnPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8|Referer=https://player.licenses4.me
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LoveNature
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/EIyG156893.png",Discovery Channel
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8?nimblesessionid=18933911&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NDg6MjUgQU0maGFzaF92YWx1ZT1jSC9aOVNaRzBJWWNQR3c2UUxZYXF3PT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
-https://we-play.live/watching/tv/tlc-hd
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LoveNature
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8|Referer=https://player.licenses4.me
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",True Explore Wild
@@ -449,25 +450,25 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/evz2156974.png",Sport TV 3
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv3/chunks.m3u8?nimblesessionid=18934368&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NTE6MDIgQU0maGFzaF92YWx1ZT1mUGNQN3FxTVM2QklxQitNdHRIR0hnPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv3/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/IdB0156975.png",Sport TV 4
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv4/chunks.m3u8?nimblesessionid=18934449&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NTE6MzEgQU0maGFzaF92YWx1ZT1xbjJDd0E4SmhiYjZjL2huWWFId2x3PT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv4/chunks.m3u8|Referer=https://player.licenses4.me
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8?nimblesessionid=18927436&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6MTI6MjEgQU0maGFzaF92YWx1ZT04emdhaEZ3YWZ0cmFvUnlMYlVlUTNnPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/MNWT156967.png",ESPN 2 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports2nl/chunks.m3u8?nimblesessionid=18934625&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NTI6NDUgQU0maGFzaF92YWx1ZT1KUmFOZ1pPbmJNNURlUE1PbXZxSzh3PT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports2nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/z3Z0156968.png",ESPN 3 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports3nl/chunks.m3u8?nimblesessionid=18934687&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NTM6MTYgQU0maGFzaF92YWx1ZT14QVJicm5KcWdVSHRYUDlTSTMvZE5RPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports3nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/AGju156969.png",ESPN 4 Netherland
@@ -544,6 +545,8 @@ http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/96Lg150079.png",Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV Asia
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/7Bim150077.png",FashionTV
@@ -667,6 +670,12 @@ http://38.123.205.70:8000/play/a09c/index.m3u8|Referer=https://player.licenses4.
 http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.me
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax HD
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
