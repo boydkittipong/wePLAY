@@ -401,7 +401,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/ar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122145748_arenasport5sr.png",Arenasport5
-https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t4/arenasport5sr/chunks.m3u8?nimblesessionid=3170340&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDQ6NTQ6MTkgQU0maGFzaF92YWx1ZT15QUVwMVh5U3k3cGxyZlBOOXRSalh3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjMmaWQ9NDQ0NzMx
+https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t4/arenasport5sr/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
