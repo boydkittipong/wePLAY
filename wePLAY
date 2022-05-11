@@ -463,6 +463,16 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/sporttv4/chunks.m3u8|Referer
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/MDo7155311.png",RMC Sport 1
+https://uload.ru.com/cdn/premium119/chunks.m3u8|Referer=https://player.licenses4.me
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/MLgq155310.png",RMC Sport 2
+https://uload.ru.com/cdn/premium120/chunks.m3u8|Referer=https://player.licenses4.me
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Netherland
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8|Referer=https://player.licenses4.me
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
