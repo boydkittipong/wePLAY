@@ -126,7 +126,7 @@ http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/JP03156926.png",Aniplus
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/aniplus/chunks.m3u8|Referer=https://player.licenses4.me
 
