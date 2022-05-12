@@ -271,8 +271,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png",Xplore
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104739.jpg",OUTSIDE
-https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/NsGF155230.png",Animal world
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/J2eQ155235.png",Science world
@@ -644,9 +642,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1,redboxgravitas
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 
-
-#EXTINF:-1 group-title="TV" tvg-logo="",Food Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Food Network
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8|Referer=https://we-play.live/
 
