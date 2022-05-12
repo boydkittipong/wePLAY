@@ -617,21 +617,10 @@ http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.
 http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
 
 
-
-
 #EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-
-
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="STIRRDocurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",STIRR Docurama (1080p) [Not 24/7]
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentary",Voyager Documentaries (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-
 
 
 #EXTINF:-1,stadium
@@ -639,8 +628,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1,redboxgravitas
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
