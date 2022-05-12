@@ -730,12 +730,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK INTRO
-https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK ANTHEM
-https://www.dropbox.com/s/4vml0og02nh7ekn/INTROIPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",YNWA
-https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
 
-#EXTINF:-1 group-title="TV" tvg-id="russia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News (Kodi)
-#plugin://plugin.video.youtube/play/?v=A0znN8T2mjs&ab_channel=GMMGRAMMYOFFICIAL
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",RT News (Kodi)
+#plugin://plugin.video.youtube/play/?v=Kc-feRzPCag&ab_channel=Genierock
