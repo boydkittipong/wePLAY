@@ -298,15 +298,13 @@ http://103.167.190.250/hls/movies-now.m3u8
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8|Referer=https://player.licenses4.me
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/EIyG156893.png",Discovery Channel
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8|Referer=https://player.licenses4.me
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
@@ -316,6 +314,10 @@ https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8|Referer=https://player.licenses4.me
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",True Explore Wild
 https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",History
