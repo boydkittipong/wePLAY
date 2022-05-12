@@ -229,7 +229,7 @@ http://103.167.190.250/hls/mnx-hd.m3u8
 http://103.167.190.250/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW
 http://103.167.190.250/hls/movies-now.m3u8
-#EXTINF:-1,MOVIES
+#EXTINF:-1,tvg-logo="https://t.kfs.io/upload_images/52910/KKTV_logo_____original.jpg" group-title="Movie",KKTV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
