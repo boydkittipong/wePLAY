@@ -197,13 +197,7 @@ https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO
-http://ip2121.com:8081/web1/hbo/playlist.m3u8|Referer=https://player.licenses4.me
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/T8AR152036.png",Cinemax
-http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL
@@ -215,20 +209,23 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|User-Age
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="Movie", HBO HITS 
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="Movie", HBO SIGNATURE 
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="Movie", HBO FAMILY 
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+#EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/T8AR152036.png",Cinemax
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Live Tv", Star World HD
-http://103.167.190.250/hls/star-worldhd.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/djbR155312.png",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY Pix
-http://103.167.190.250/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png" group-title="Movie",MNX
-http://103.167.190.250/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.i-pic.info/i/iOZU156900.png" group-title="Movie",MN+
-http://103.167.190.250/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW
-http://103.167.190.250/hls/movies-now.m3u8
+
 #EXTINF:-1,tvg-logo="https://t.kfs.io/upload_images/52910/KKTV_logo_____original.jpg" group-title="Movie",KKTV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -623,59 +620,20 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="ช่องหนัง", HBO HD 
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS 
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="ช่องหนัง", HBO SIGNATURE 
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="ช่องหนัง", HBO FAMILY 
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+
+
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="ช่องหนัง", CINEMAX 
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORLD
-http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K+
-http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K DRAMA
-http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KIX
-http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY CINEMA
-http://210.210.155.35/session/8682945e-e57f-11e8-8e07-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KIX HD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY CHANEL
-http://210.210.155.35/uq2663/h/h142/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony One HD
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SBS IN
-http://210.210.155.35/uq2663/h/h28/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SBS IN
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", My KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY Pix
+http://103.167.190.250/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png" group-title="Movie",MNX
+http://103.167.190.250/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.i-pic.info/i/iOZU156900.png" group-title="Movie",MN+
+http://103.167.190.250/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW
+http://103.167.190.250/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Live Tv", Star World HD
+http://103.167.190.250/hls/star-worldhd.m3u8
