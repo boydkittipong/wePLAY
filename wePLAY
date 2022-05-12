@@ -472,20 +472,20 @@ https://uload.ru.com/cdn/premium120/chunks.m3u8|Referer=https://player.licenses4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports1nl/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/Mwar156961.png",ESPN 1 Argentina
+http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/MNWT156967.png",ESPN 2 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports2nl/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/MNWT156967.png",ESPN 2 Argentina
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145200_spa=20000-avc1_899968=10003.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/z3Z0156968.png",ESPN 3 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports3nl/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/z3Z0156968.png",ESPN 3 Argentina
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/AGju156969.png",ESPN 4 Netherland
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/foxsports4nl/chunks.m3u8?nimblesessionid=18934759&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDM6NTM6NDMgQU0maGFzaF92YWx1ZT1qeEZqS3NmUDcxV2w2bXdhQzlMMWVRPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://player.licenses4.me
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/AGju156969.png",ESPN 4 Argentina
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://www.i-pic.info/i/CTHO156963.png" group-title="Sports",Astro Super Sport 1
@@ -731,6 +731,3 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",RT News (Kodi)
-#plugin://plugin.video.youtube/play/?v=7-hUo6XoneE&t=9s&ab_channel=MajorGroup
