@@ -732,103 +732,355 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704685.jpeg",HITS Movies
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hitsmovies/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704522.jpeg",Food Network
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704694.jpeg",KBS World
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/kbs/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/rock-entertainment-poster.jpg",ROCK ENTERTAINMENT
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ent/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/rock-extreme-poster.jpg",ROCK EXTREME
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704607.jpeg",CCM
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/ccm/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704632.jpeg",Paramount Channel
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/paramount/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704657.jpeg",True X-ZYTE
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/xzyte/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704689.jpeg",Hits
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hits/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704702.jpeg",tvN
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/tvn/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/gem-poster.jpg",GEM
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/gem/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",True Chinese More
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-chinese-more/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/true-asian-more-poster.jpg",True Asian More
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-asian-more/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/true-korean-more-poster.jpg",True Korean More
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-korean-more/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/lovenature-4k-poster1602705702.jpeg",LoveNature 4K
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/lovenature/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/discovery-channel-poster1602705554.jpeg",Discovery Channel
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",TLC
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/tlc/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/aniplus-poster1602706016.jpeg",Aniplus
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/aniplus/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/dreamworks-poster.jpg",Dreamworks
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/dreamworks/chunks.m3u8|Referer=https://player.licenses4.me
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/nick-jr-poster.jpg",Nick Jr.
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickjr/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1,A&E FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8264
+#EXTINF:-1,ABC News HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16710
+#EXTINF:-1,Amazing Discoveries HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24676
+#EXTINF:-1,AMC HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10056
+#EXTINF:-1,American Heroes Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10972
+#EXTINF:-1,Atlanta Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23689
+#EXTINF:-1,BBC America HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15156
+#EXTINF:-1,beIN Sports Connect HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9693
+#EXTINF:-1,beIN Sports Connect Ñ HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23399
+#EXTINF:-1,BET HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8237
+#EXTINF:-1,BET Her HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23407
+#EXTINF:-1,BET Jams HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/39309
+#EXTINF:-1,BET Soul HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/39308
+#EXTINF:-1,Big Ten Network FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11898
+#EXTINF:-1,Bloomberg HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10824
+#EXTINF:-1,Boomerang FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10926
+#EXTINF:-1,Bravo HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8261
+#EXTINF:-1,Bravo West US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23691
+#EXTINF:-1,BTN Sport HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11906
+#EXTINF:-1,TV One FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11905
+#EXTINF:-1,C-SPAN 1 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11629
+#EXTINF:-1,C-SPAN 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11630
+#EXTINF:-1,C-SPAN 3 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11631
+#EXTINF:-1,Cartoon Network FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10878
+#EXTINF:-1,One America News HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17319
+#EXTINF:-1,CBS Sports (CBSSN) HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8245
+#EXTINF:-1,CBSN HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8258
+#EXTINF:-1,Cinemax 5Starmax HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11904
+#EXTINF:-1,Cinemax ActionMax HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11916
+#EXTINF:-1,Cinemax East HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11903
+#EXTINF:-1,Cinemax Moremax HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11902
+#EXTINF:-1,CMT HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16852
+#EXTINF:-1,CNBC HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8263
+#EXTINF:-1,CNN HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8248
+#EXTINF:-1,Comedy Central HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17304
+#EXTINF:-1,Cooking Channel FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11639
+#EXTINF:-1,Crime & Investigation Network FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19396
+#EXTINF:-1,CW 11 Seattle FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15022
+#EXTINF:-1,Destination America FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9690
+#EXTINF:-1,Discovery Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19390
+#EXTINF:-1,Discovery Science FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15175
+#EXTINF:-1,Discovery Life HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11912
+#EXTINF:-1,Discovery Family HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11910
+#EXTINF:-1,Disney Channel FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16709
+#EXTINF:-1,Disney Junior HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16770
+#EXTINF:-1,Disney XD FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10925
+#EXTINF:-1,District Knowledge Network US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19387
+#EXTINF:-1,District of Columbia Network US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19388
+#EXTINF:-1,DIY NETWORK FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17444
+#EXTINF:-1,DW US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24677
+#EXTINF:-1,E! HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8257
+#EXTINF:-1,Entertainment Tonight FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19393
+#EXTINF:-1,Eleven Sports Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23217
+#EXTINF:-1,ET Live FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24680
+#EXTINF:-1,ESPN News HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11583
+#EXTINF:-1,ESPN+ HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/32482
+#EXTINF:-1,ESPN HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9660
+#EXTINF:-1,ESPN 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10881
+#EXTINF:-1,ESPN 3 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10880
+#EXTINF:-1,Fashion One HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24678
+#EXTINF:-1,Food Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11901
+#EXTINF:-1,Fox Business HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8239
+#EXTINF:-1,Fox Deportes HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/20365
+#EXTINF:-1,Fox News HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8247
+#EXTINF:-1,Fox Soccer Plus HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9661
+#EXTINF:-1,Fox Sports 1 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8254
+#EXTINF:-1,Fox Sports 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8255
+#EXTINF:-1,Freeform HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9685
+#EXTINF:-1,Fuse HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23659
+#EXTINF:-1,FX FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17306
+#EXTINF:-1,FXX HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17308
+#EXTINF:-1,GSN (Game Show Network) HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17314
+#EXTINF:-1,Hallmark Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9691
+#EXTINF:-1,Hallmark Movies And Mysteries HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15180
+#EXTINF:-1,HBO 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8262
+#EXTINF:-1,HBO 2 West FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24683
+#EXTINF:-1,HBO Comedy FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8252
+#EXTINF:-1,HBO East FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8250
+#EXTINF:-1,HBO Family HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8249
+#EXTINF:-1,HBO Signature East HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11294
+#EXTINF:-1,HBO Zone FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8251
+#EXTINF:-1,HGTV FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15181
+#EXTINF:-1,History FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16767
+#EXTINF:-1,HLN US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16679
+#EXTINF:-1,ID Fashion FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15014
+#EXTINF:-1,IFC HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9686
+#EXTINF:-1,IndiePlex HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24684
+#EXTINF:-1,Investigation Discovery FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8242
+#EXTINF:-1,Key TV HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19394
+#EXTINF:-1,Lifetime HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23829
+#EXTINF:-1,Lifetime Movie Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23830
+#EXTINF:-1,Yes Network FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9688
+#EXTINF:-1,MLB Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15009
+#EXTINF:-1,MSG 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10971
+#EXTINF:-1,MovieMax HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24685
+#EXTINF:-1,MoviePlex FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24686
+#EXTINF:-1,MSG HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15177
+#EXTINF:-1,MSNBC HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11341
+#EXTINF:-1,MTV HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9670
+#EXTINF:-1,MTV Rocks US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11908
+#EXTINF:-1,MTV Live HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9671
+#EXTINF:-1,NASA TV HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11067
+#EXTINF:-1,NBA TV FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8246
+#EXTINF:-1,NBC (East) FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8260
+#EXTINF:-1,NESN+ HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10975
+#EXTINF:-1,NFL NOW HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8235
+#EXTINF:-1,NFL Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/26457
+#EXTINF:-1,NFL Red Zone HD (Only Available On Sunday) US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11955
+#EXTINF:-1,NHL Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8236
+#EXTINF:-1,Nickelodeon HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/27892
+#EXTINF:-1,Nick JR HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10927
+#EXTINF:-1,OWN HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8241
+#EXTINF:-1,Oxygen HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10928
+#EXTINF:-1,PAC-12 Arizona FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10969
+#EXTINF:-1,PAC-12 Bay Area FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10968
+#EXTINF:-1,PAC-12 Los Angeles FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10967
+#EXTINF:-1,PAC-12 Oregon FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10966
+#EXTINF:-1,PAC-12 Washington FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10965
+#EXTINF:-1,Paramount Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17305
+#EXTINF:-1,PBS HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23219
+#EXTINF:-1,PBS Kids HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17416
+#EXTINF:-1,Red Bull TV FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/12129
+#EXTINF:-1,Reelz HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24796
+#EXTINF:-1,Revolt HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15174
+#EXTINF:-1,RT America FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10716
+#EXTINF:-1,SEC Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15178
+#EXTINF:-1,SNY SportsNet New York FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11915
+#EXTINF:-1,Showtime BET HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9694
+#EXTINF:-1,Showtime 2 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10877
+#EXTINF:-1,Showtime Extreme FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11638
+#EXTINF:-1,Showtime Showcase HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11582
+#EXTINF:-1,Showtime Beyond HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/25081
+#EXTINF:-1,Sony Movie Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24688
+#EXTINF:-1,Starz Cinema FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8238
+#EXTINF:-1,Starz Encore Family FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24689
+#EXTINF:-1,Starz Comedy FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9667
+#EXTINF:-1,Starz Black FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24687
+#EXTINF:-1,Starz Edge FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9668
+#EXTINF:-1,Starz Encore West FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24690
+#EXTINF:-1,Starz East HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9666
+#EXTINF:-1,Starz Encore HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11900
+#EXTINF:-1,Starz Encore Westerns FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/25365
+#EXTINF:-1,Starz Kids & Family FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11151
+#EXTINF:-1,Starz West FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11899
+#EXTINF:-1,Sundance TV FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15179
+#EXTINF:-1,SYFY HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9659
+#EXTINF:-1,TBS HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10879
+#EXTINF:-1,TCM US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17445
+#EXTINF:-1,Tennis Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8244
+#EXTINF:-1,Blaze TV US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/15005
+#EXTINF:-1,Golf Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9692
+#EXTINF:-1,The Sportsman Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/19384
+#EXTINF:-1,The Weather Channel FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11907
+#EXTINF:-1,TLC HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8243
+#EXTINF:-1,TNT FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11580
+#EXTINF:-1,Travel Channel HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10964
+#EXTINF:-1,TRT World FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11068
+#EXTINF:-1,Tru TV US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16678
+#EXTINF:-1,TV Land HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17310
+#EXTINF:-1,National Geographic HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/24795
+#EXTINF:-1,UFC Fight Pass FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/13259
+#EXTINF:-1,Universal Kids HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/23661
+#EXTINF:-1,USA Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/8259
+#EXTINF:-1,Motor Trend HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/10974
+#EXTINF:-1,VH1 Classic US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/16682
+#EXTINF:-1,VH1 HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11632
+#EXTINF:-1,Viceland HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9665
+#EXTINF:-1,National Geographic Wild HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/25364
+#EXTINF:-1,We TV HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/11909
+#EXTINF:-1,WGN America HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17318
+#EXTINF:-1,Willow Cricket HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/40967
+#EXTINF:-1,WWE Network HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/9663
+#EXTINF:-1,News 12 Hudson Valley & Westchester FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17587
+#EXTINF:-1,News 12 Long Island FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17589
+#EXTINF:-1,News 12 New Jersey HD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17588
+#EXTINF:-1,News 12 The Bronx FHD US
+http://iptvworld.ml:2095/iptvfree1/83pETAGtcC/17417
