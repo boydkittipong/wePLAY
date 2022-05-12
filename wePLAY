@@ -618,6 +618,10 @@ http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/3rmGq4q.jpg",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8|Referer=https://player.licenses4.me
 
 
 
