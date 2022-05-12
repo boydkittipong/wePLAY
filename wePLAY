@@ -216,7 +216,7 @@ https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Ag
 
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",Star Movies HD
-http://103.167.190.250/hls/starmovies.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Live Tv", Star World HD
 http://103.167.190.250/hls/star-worldhd.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/djbR155312.png",Thrill
@@ -633,3 +633,33 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORLD
+http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K+
+http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K DRAMA
+http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KIX
+http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY CINEMA
+http://210.210.155.35/session/8682945e-e57f-11e8-8e07-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY CHANEL
+http://210.210.155.35/uq2663/h/h142/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
