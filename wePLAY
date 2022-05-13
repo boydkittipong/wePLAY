@@ -1,15 +1,6 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png" user-agent="Mozilla/5.0 (CrKey armv7l 1.5.16041) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" group-title="MOVIES",ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.90 Safari/537.36 CrKey/1.17.46278
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Scale/1.00)
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ent/chunks.m3u8|Referer=https://player.licenses4.me
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
