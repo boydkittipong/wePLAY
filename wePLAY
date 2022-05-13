@@ -220,11 +220,23 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/T8AR152036.png",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.i-pic.info/i/djbR155312.png",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY Pix
+http://103.167.190.250/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png" group-title="Movie",MNX
+http://103.167.190.250/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.i-pic.info/i/iOZU156900.png" group-title="Movie",MN+
+http://103.167.190.250/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW
+http://103.167.190.250/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Live Tv", Star World HD
+http://103.167.190.250/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://t.kfs.io/upload_images/52910/KKTV_logo_____original.jpg" group-title="Movie",KKTV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -627,13 +639,4 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY Pix
-http://103.167.190.250/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png" group-title="Movie",MNX
-http://103.167.190.250/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.i-pic.info/i/iOZU156900.png" group-title="Movie",MN+
-http://103.167.190.250/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW
-http://103.167.190.250/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Live Tv", Star World HD
-http://103.167.190.250/hls/star-worldhd.m3u8
+
