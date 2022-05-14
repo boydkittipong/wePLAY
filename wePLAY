@@ -627,16 +627,6 @@ http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="DEPORTES", BEIN SPORTS Ñ EXTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="ช่องหนัง", HBO HD 
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-
-
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="ช่องหนัง", CINEMAX 
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
