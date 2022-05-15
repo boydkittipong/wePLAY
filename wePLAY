@@ -331,9 +331,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/motorvision/sport/motorvis
 http://203.154.243.89:28010/pa/snooker.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/tkXA155238.png",WTB
 http://203.154.243.89:28010/pa/wtb.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/R8OY150027.png",Spotv1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%201.png",Spotv1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/sport/spotv1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/h6Ev150028.png",Spotv2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",Spotv2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 
 
