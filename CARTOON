@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOONCLUB
+https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/jb2N148473.png",TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
+http://203.154.243.89:28010/pa/umi.ts
+#EXTINF:-1 tvg-logo="https://www.at-x.com/favicon_android.png",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5yTM161114.png",NICK (Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/9VfR161115.png",NICKELODEON (Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/BbNd161116.png",NICK JR.(Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/9dia161108.png",PBS KIDS (Soundtrack)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dCiW161111.png",JUNIOR (Soundtrack)
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/BfFX161147.png",CONTV ANIME (Soundtrack)
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UUNJRhft91sQ68eNZBqI7PORtYoIbcSACA4Iy3AZ7ocqHt1Cd8s0Z3x-XtG6MTH1ghJNHjfsBA=s900-c-k-c0x00ffffff-no-rj",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51XTdK17fFL.png",BABY FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png",LEGO
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/V9j3167852.png",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
+#EXTINF:-1  tvg-logo="https://www.animationxpress.com/wp-content/uploads/2015/11/Xilam.jpg",XILAM TV
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
