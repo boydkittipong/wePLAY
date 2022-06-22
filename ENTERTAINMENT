@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/YN4i155233.png",PING
+http://203.154.243.89:28010/pa/ping.ts
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RQ7a155236.png",SERIES CHANNEL
+http://203.154.243.89:28007/mss/series
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vhLk148483.png",CHANNEL 8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-film-hd270.webp",TRUE FILM 2
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115415|User-Agent=ProPlayer
+#EXTINF:-1 tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/995556_577366235645625_152430234_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHBKSikZ71YirNC3eM_wu1OjmY-1LE0ZoqOZj7UsTRmikHAVYeGd4y--dfglFY69PA&_nc_ohc=oySDkNrBM_sAX_IK4Wa&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_kurPRA9dNJf6oaM4L4FZSKw12_A3U-q5e7LqcKFFBjA&oe=62D15349",HITS MOVIES
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115729|User-Agent=ProPlayer
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/r3zy155234.png",UNIVERSAL MOVIES
+http://203.154.243.89:28010/pa/universal.ts
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/keps157068.png",IZAA TV
+http://203.154.243.89:28007/mss/izaa
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/FN6v169687.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9umJ169690.png",SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MHl0169689.png",SANOOK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oGck169688.png",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
+http://203.159.95.172:8081/live/banner003/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL (Sub TH)
+http://203.154.243.89:28010/pa/hchannel.ts
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/T8AR152036.png",CINEMAX (Sub TH)
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://www.i-pic.info/i/rkIZ161112.png",KKTV (Soundtrack)
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
