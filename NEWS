@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/AfQX152071.png",SKY NEWS
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/27ij152045.png",BBC NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG ASIA
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/rTji152041.png",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VDpb155290.png",ABC AUSTRALIA
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/K4Oc155289.png",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/e0qU152065.png",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EgqF152054.png",FRANCE 24 
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/f5dm152053.png",FOX NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IEDv152075.png",CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lgontario.ca/custom/uploads/2020/04/unnamed.jpg",UN WEB TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://www.metroglobe.id/assets/img/logo.png",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
