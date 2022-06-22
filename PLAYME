@@ -1,45 +1,78 @@
 {
 "name": "ฺPLAY ME",
-"author": "Boyd Kittipong",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wfEEv.md.png",
+"author": "Play Me",
+"image": "https://www.i-pic.info/i/IT7U182393",
 "url": "https://bit.ly/3aNKKEJ",
 "groups": [
  
  
  
 {
-"name": "PLAY ME",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wf5kk.md.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_TV",
+"name": "ฟรีทีวี",
+"image": "https://www.i-pic.info/i/jsQU182400.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/FREETV",
 "import": false
 },
 {
-"name": "AIS_SPORTS",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wfULl.md.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SPORTS",
+"name": "เคเบิ้ล ทีวี",
+"image": "https://www.i-pic.info/i/Iiep182397.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CABLETV",
 "import": false
 },
 {
-"name": "AIS_MOVIE",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wfiMP.md.png",
+"name": "บันเทิง",
+"image": "https://www.i-pic.info/i/MswI182399.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ENTERTAINMENT",
+"import": false
+},
+{
+"name": "วาไรตี้",
+"image": "https://www.i-pic.info/i/Yyp6182401.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/VARIETY",
+"import": false
+},
+{
+"name": "การ์ตูน",
+"image": "https://www.i-pic.info/i/BsjL182394.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CARTOON",
+"import": false
+},
+{
+"name": "สารคดี",
+"image": "https://www.i-pic.info/i/yAFW182403.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOCUMENTARY",
+"import": false
+},
+{
+"name": "กีฬา",
+"image": "https://www.i-pic.info/i/9pDX182395.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/SPORTS",
+"import": false
+},
+{
+"name": "ข่าวต่างประเทศ",
+"image": "https://www.i-pic.info/i/c4N6182413.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NEWS",
+"import": false
+},
+{
+"name": "หนัง",
+"image": "https://www.i-pic.info/i/WoSz182412.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
 "import": false
 },
 {
-"name": "AIS_SERIES",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wfQDe.md.png",
+"name": "ซีรี่ย์",
+"image": "https://www.i-pic.info/i/XHNr182398.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SERIES",
 "import": false
 },
 {
-"name": "AIS_RADIO",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wfx1t.md.png",
+"name": "วิทยุ",
+"image": "https://www.i-pic.info/i/yJNO182402.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
 "import": false
 },
-
- 
- 
  
 ]
 }
