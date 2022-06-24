@@ -13,6 +13,8 @@ https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/hJ1N152060.png",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1956178634.m3u8
 #EXTINF:-1 tvg-logo="https://mvtv.co.th/ios/icons/GIF/Mix-Major.gif",MIX MAJOR CHANNEL
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w1234273520.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ELdr152038.png",CABLE 37 HD
