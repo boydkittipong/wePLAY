@@ -42,6 +42,13 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
+http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c0d5a3a50a54f56e2b4c6b0/1547573427053-OPP2BY225XXJRUP0O2D2/SE%CC%81RIEPLUS_LOGO.png",SERIES+HD
+http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
+
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
@@ -60,3 +67,5 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES (Soundtrack)
+http://203.154.243.89:28007/mss/izaa
