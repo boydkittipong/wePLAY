@@ -126,13 +126,17 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|Referer=https://ballmun.com/
 
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
-http://203.154.243.89:21201/nakhon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livesod88.com/?id=739381&ch=astrosupersport
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
-http://203.154.243.89:21202/nakhon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livesod88.com/?id=739381&ch=astrosupersport2
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png",ASTRO SUPER SPORT 3
-http://203.154.243.89:21203/nakhon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livesod88.com/?id=739381&ch=astrosupersport3
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
-http://203.154.243.89:21204/nakhon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livesod88.com/?id=739381&ch=astrosupersport4
 
 
 
