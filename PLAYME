@@ -1,7 +1,7 @@
 {
 "name": "ฺPLAY ME",
 "author": "Play Me",
-"image": "https://www.i-pic.info/i/IT7U182393",
+"image": "https://www.i-pic.info/i/X8vT187620.png",
 "url": "https://bit.ly/3OOV9ib",
 "groups": [
  
@@ -9,73 +9,73 @@
  
 {
 "name": "ฟรีทีวี",
-"image": "https://www.i-pic.info/i/jsQU182400.png",
+"image": "https://www.i-pic.info/i/VwGH187626.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/FREETV",
 "import": false
 },
 {
 "name": "เคเบิ้ล ทีวี",
-"image": "https://www.i-pic.info/i/Iiep182397.png",
+"image": "https://www.i-pic.info/i/wtpH187623.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CABLETV",
 "import": false
 },
 {
 "name": "บันเทิง",
-"image": "https://www.i-pic.info/i/MswI182399.png",
+"image": "https://www.i-pic.info/i/AU7k187625.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ENTERTAINMENT",
 "import": false
 },
 {
 "name": "วาไรตี้",
-"image": "https://www.i-pic.info/i/Yyp6182401.png",
+"image": "https://www.i-pic.info/i/9plC187627.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/VARIETY",
 "import": false
 },
 {
 "name": "การ์ตูน",
-"image": "https://www.i-pic.info/i/BsjL182394.png",
+"image": "https://www.i-pic.info/i/UvoL187619.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CARTOON",
 "import": false
 },
 {
 "name": "สารคดี",
-"image": "https://www.i-pic.info/i/yAFW182403.png",
+"image": "https://www.i-pic.info/i/dQPj187629.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOCUMENTARY",
 "import": false
 },
 {
 "name": "กีฬา",
-"image": "https://www.i-pic.info/i/9pDX182395.png",
+"image": "https://www.i-pic.info/i/bAHS187621.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/SPORTS",
 "import": false
 },
 {
 "name": "ข่าวต่างประเทศ",
-"image": "https://www.i-pic.info/i/c4N6182413.png",
+"image": "https://www.i-pic.info/i/KUIy187622.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NEWS",
 "import": false
 },
 {
 "name": "หนัง",
-"image": "https://www.i-pic.info/i/WoSz182412.png",
+"image": "https://www.i-pic.info/i/TQNm187630.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
 "import": false
 },
 {
-"name": "Doofree4k",
-"image": "https://doofree4k.com/wp-content/uploads/2020/07/1-1.jpg",
+"name": "I-MOVIEHD",
+"image": "https://www.i-pic.info/i/Wxhb187635.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
 "import": false
 },
 {
 "name": "ซีรี่ย์",
-"image": "https://www.i-pic.info/i/XHNr182398.png",
+"image": "https://www.i-pic.info/i/HLgD187624.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SERIES",
 "import": false
 },
 {
 "name": "วิทยุ",
-"image": "https://www.i-pic.info/i/yJNO182402.png",
+"image": "https://www.i-pic.info/i/LS92187628.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
 "import": false
 },
