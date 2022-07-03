@@ -32,7 +32,7 @@ http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
-https://freelive.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
 http://61.19.242.134/feed/202105171329/chnation/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
