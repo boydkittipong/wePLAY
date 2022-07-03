@@ -45,17 +45,9 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
 http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c0d5a3a50a54f56e2b4c6b0/1547573427053-OPP2BY225XXJRUP0O2D2/SE%CC%81RIEPLUS_LOGO.png",SERIES+HD
-http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
-
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
-http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
-http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
 http://61.19.242.134/feed/202105171329/LC28/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL (Sub TH)
