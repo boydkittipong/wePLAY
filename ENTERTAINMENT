@@ -12,7 +12,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-film-hd270.webp",TRUE FILM 2
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115415|User-Agent=ProPlayer
-#EXTINF:-1 tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/995556_577366235645625_152430234_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHBKSikZ71YirNC3eM_wu1OjmY-1LE0ZoqOZj7UsTRmikHAVYeGd4y--dfglFY69PA&_nc_ohc=oySDkNrBM_sAX_IK4Wa&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_kurPRA9dNJf6oaM4L4FZSKw12_A3U-q5e7LqcKFFBjA&oe=62D15349",HITS MOVIES
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/BcKk156897.png",HITS MOVIES
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115729|User-Agent=ProPlayer
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/r3zy155234.png",UNIVERSAL MOVIES
 http://203.154.243.89:28010/pa/universal.ts
@@ -60,3 +60,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES HD
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png",SONY PIX HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png",MOVIES NOW HD
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png",MNX HD
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iOZU156900.png",MN+ HD
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dURS156921.png",STAR WORLD HD
+http://103.55.144.46/hls/star-worldhd.m3u8
