@@ -44,3 +44,19 @@ https://live.thaitvstream.com/play/wadyantv/index.m3u8
 http://203.154.243.89:28008/nakhon/nakhonplange
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/z7cy155297.png",MON PLENG
 http://203.154.243.89:28008/nakhon/monplange
+
+
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png" group-title="Variety",Happy TV
+https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg" group-title="Variety",Thai Variety
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png" group-title="Variety",Esan TV
+https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" group-title="Variety",Siam TV
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" group-title="Variety",Lido TV
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" group-title="Variety",Sakala
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rama-channel-2.png",Rama Channel
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
