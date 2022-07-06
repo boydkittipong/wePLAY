@@ -60,3 +60,9 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/nwNt152066.png",Rama Channel
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",ThaiBaan
+https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
+https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mees9SRo6CsqBBaPe-pC2ZdBpiJ91FuxlX4S-qggMw9MKj93ShVgKmVo3eDUPEw47kgm77maHw=s900-c-k-c0x00ffffff-no-rj",66TV
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
