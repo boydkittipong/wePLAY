@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="17" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
@@ -68,5 +68,5 @@ https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mees9SRo6CsqBBaPe-pC2ZdBpiJ91FuxlX4S-qggMw9MKj93ShVgKmVo3eDUPEw47kgm77maHw=s900-c-k-c0x00ffffff-no-rj",66TV
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://bit.ly/3JPtgUp",ToplineChannel
+#EXTINF:-1 tvg-logo="https://bit.ly/3JPtgUp",ToplineChannel
 https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
