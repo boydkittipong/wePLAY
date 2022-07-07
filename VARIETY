@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/heart56.webp",HEART
-https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDU6MjggUE0maGFzaF92YWx1ZT04QXIvMTdySVdCeEM4cHFESzFKR2VBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzM1MDgx
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/HNdC149435.png",LIFETIME
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV ASIA
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/sweet26.webp",SWEET
 http://61.19.242.134/feed/202105171329/LC36/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/1q6y150076.png",A3BIKINI TV
@@ -15,10 +21,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-kbs-1-tv-4466.jpg",KBS1
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-kbs-2-tv-5685.jpg",KBS2
-http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
