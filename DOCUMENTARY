@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593573025939506/dc42caaeaa178fa25136f5bd2760baed.png",KHONGDEE THAILAND
-https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDU6MzM6NDQgUE0maGFzaF92YWx1ZT1mdXI3b08yOHp2T0V5TVI4WmhIYUFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzc0Mjkz
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
