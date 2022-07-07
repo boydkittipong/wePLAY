@@ -1,4 +1,57 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://freetvdd.com
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png",BEIN SPORT 3
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|Referer=https://livescorethai.net/
+
+
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/ymaQ149388.png",TRUE SPORT 2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/zodM149389.png",TRUE SPORT 3
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/1SWo149391.png",TRUE SPORT 5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/ecN1149392.png",TRUE SPORT 7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/jP9z149418.png",TRUE TENNIS
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/aKLU149421.png",GOLF CHANNEL
+https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://ballmun.com/asset/logo-channel/nbatv.png",NBA TV
+https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|Referer=https://freetvdd.com
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/IPGe150019.png",BTSPORT 1
+https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/MhSt150018.png",BTSPORT 2
+https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/gfqU150020.png",BTSPORT 3
+https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|Referer=https://freetvdd.com
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/nFLr150080.png",PREMIER SPORTS
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/wKG1150031.png",SKY BUNDESLIGA
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
+https://streaming.livescorethai.net/iptv/sd-cctv4.stream/chunks.m3u8|Referer=https://freetvdd.com
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8|Referer=https://ais-vidnt.com
