@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/s0bP149432.png",NATIONAL GEOGRAPHIC
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
