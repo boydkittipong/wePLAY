@@ -45,4 +45,7 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0175/HLS/V0175.m3u8|Referer=https://ais-vidnt.com
+https://ktiptv.cf:443/161/161/73884
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/kYEF161105.png",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
