@@ -50,3 +50,5 @@ https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1541999054380335106/qF7964l0_400x400.jpg",VOICE TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBeyHt40CroxgNk7GLFLFEdy1H6ddMtLm7VMYUpvzNxPfTRa3dkm5cjl9Zin53fqX8g",TGN
+http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
