@@ -60,11 +60,37 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/nwNt152066.png",RAMA CHANNEL
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",THAIBAAN
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/tb-tv.png",THAIBAAN
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mees9SRo6CsqBBaPe-pC2ZdBpiJ91FuxlX4S-qggMw9MKj93ShVgKmVo3eDUPEw47kgm77maHw=s900-c-k-c0x00ffffff-no-rj",66TV
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3JPtgUp",TOPLINE CHANNEL
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/topline.png",TOPLINE CHANNEL
 https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png",medianews
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",siamnewstv
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",mounchontv
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/burirumtv/burirumtv.png",burirumtv
+https://live2.thaitvstream.com/play/burirumtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/zabbtv/zabbtv.png",zabbtv
+https://live1.thaitvstream.com/play/zabbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/andtv/andtv.png",andtv
+https://live.thaitvstream.com/play/andtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",srtvonline
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwbfsOvvgw06M5zpiCvNP-nP_uzKDwLfIOBiVclA=s900-c-k-c0x00ffffff-no-rj",13 siamthai
+https://live.x2.co.th/live/13wDt2b6g4.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TBD101.png",TVD10
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w161210455.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-LOAOOY.png",oylaotv
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-MVLOA.png",MVLAO
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1708989851.m3u8
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/lthu.png",laothaius
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
