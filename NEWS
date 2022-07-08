@@ -10,7 +10,7 @@ https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Refe
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
-https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/440px-KBC_Gwangju_Broadcasting_logo.svg.png",KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
