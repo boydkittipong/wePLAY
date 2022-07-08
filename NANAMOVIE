@@ -1,3 +1,25 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_.jpg",THE ISLAND (2005) แหกระห่ำแผนคนเหนือคน
-https://content-videovard-delivery-s47.vidvard.stream/hls2/01/00665/klsehgqo68mg_n/index-v1-a1.m3u8?t=BWOeBf--NWrf49Td894dXFS4Y8sOpY7S_yRtdCYTGbo&s=1657275118&e=18000&f=3326186&srv=127.0.0.1&asn=23969
+{
+"name": "ฺNANA MOVIE",
+"author": "Play Me",
+"image": "https://www.i-pic.info/i/X8vT187620.png",
+"url": "https://bit.ly/3OOV9ib",
+"groups": [
+ 
+ 
+
+{
+"name": "Movies",
+"image": "https://www.i-pic.info/i/Jawd190450.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
+"import": false
+},
+{
+"name": "TV Series",
+"image": "https://www.i-pic.info/i/Wxhb187635.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
+"import": false
+},
+
+ 
+]
+}
