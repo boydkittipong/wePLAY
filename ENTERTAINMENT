@@ -83,6 +83,16 @@ http://103.55.144.46/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dURS156921.png",STAR WORLD HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MDWt152059.png",MUNGKORN
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TuLv152058.png",JOM YUT
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.i-pic.info/i/Hrf7161119.png",TVB THAI
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1956178634.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",MIX MAJOR CHANNEL
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w1234273520.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
