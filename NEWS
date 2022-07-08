@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/AfQX152071.png",SKY NEWS
-https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/hBHG152070.png",SKY ONE
 https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mAUP152040.png",ALIBI
@@ -11,22 +9,21 @@ https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|Referer=http
 https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
+https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|Referer=https://freetvdd.com
+
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/AfQX152071.png",SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
-https://mediasv.online/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6Mzg6MDcgUE0maGFzaF92YWx1ZT1NN21mZCtVOTdBcE5jTzRzR3BnT1JnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzk2Nzcy
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/27ij152045.png",BBC NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
