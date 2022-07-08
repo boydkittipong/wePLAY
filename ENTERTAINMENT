@@ -87,7 +87,7 @@ http://103.55.144.46/hls/star-worldhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",TVN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rx_0a7JDFELPcUyP5RaqaX7FraezYQiSBaNp1BGAAo5yQV0_MldgSH8u6sBIQejT0-ADD0QWFYc=s900-c-k-c0x00ffffff-no-rj",TVN
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com
