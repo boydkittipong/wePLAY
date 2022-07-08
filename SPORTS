@@ -276,6 +276,13 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anwqqIH.png",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/tT03ZHTTTjW42ibOAgc-gwnwxQcb_Q2gx9RKK2dha3maszhN4U93EW6RlQhCBGXEx8r2EhUb=s900-c-k-c0x00ffffff-no-rj", TNT Sports Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",J SPORTS 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -289,6 +296,14 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_4_4k.jpg",J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
 
