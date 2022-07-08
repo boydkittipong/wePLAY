@@ -8,7 +8,8 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://freetvdd.com
 
-
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
+http://203.154.243.89:28010/pa/umi.ts
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
