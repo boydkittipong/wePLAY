@@ -22,8 +22,6 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mSlT152050.png",COOL CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://moviektu.com/Cool/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEE TV
-http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg",CHIANGRAI CHANNEL
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/wadyantv/wadyantv.png",CHANTV
