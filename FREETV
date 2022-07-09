@@ -38,7 +38,7 @@ http://61.19.242.134/feed/202105171329/chnation/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1209799966.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
