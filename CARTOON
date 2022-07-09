@@ -43,9 +43,11 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://ktiptv.cf:443/161/161/73884
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/kYEF161105.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png?_olQ.B5b35w59zex4jQxtjtYNvzVJO6p&itok=JAdzPWWq",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmRpc25leS5kYXRnLnZpZGVvcGxhdGZvcm1zLmFuZHJvaWQud2F0Y2hkeGRfaWNvbl8xNTIyMjQ1ODg0XzAwMA/icon.png?w=&fakeurl=1",Disney XD
+http://208.86.19.13:81/10.stream/index.m3u8
