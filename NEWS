@@ -12,7 +12,8 @@ https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Refere
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
-
+#EXTINF: -1 tvg-logo="http://fltaradio.com/upload/2018/09/ntv-news24.jpg",NTV NEWS24 
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
