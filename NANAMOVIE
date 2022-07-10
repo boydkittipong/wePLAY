@@ -8,15 +8,9 @@
  
 
 {
-"name": "Movies",
-"image": "https://www.i-pic.info/i/l6WS190473.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/Movies",
-"import": false
-},
-{
 "name": "TV 246 ช่อง",
 "image": "https://www.i-pic.info/i/uUdG190472.png",
-"url": "https://pastebin.com/raw/ySQf5FPr?fbclid=IwAR1w9k5NE8n2Wrfl9nzn8G0SFLKN79L33FJOJFWBFbSC5WqU2k0lcCzFJFE",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/Movies",
 "import": false
 },
 
