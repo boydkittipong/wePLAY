@@ -71,19 +71,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES HD
-http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png",SONY PIX HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png",MOVIES NOW HD
-http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png",MNX HD
-http://103.55.144.46/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iOZU156900.png",MN+ HD
-http://103.55.144.46/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dURS156921.png",STAR WORLD HD
-http://103.55.144.46/hls/star-worldhd.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
@@ -117,7 +104,20 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 
-#EXTINF: -1  tvg-logo="https://www.coolstreaming.us/img/ch/image84488057252.jpg", Gunma TV 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES HD
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png",SONY PIX HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png",MOVIES NOW HD
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png",MNX HD
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iOZU156900.png",MN+ HD
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dURS156921.png",STAR WORLD HD
+http://103.55.144.46/hls/star-worldhd.m3u8
+
+#EXTINF: -1  tvg-logo="https://www.coolstreaming.us/img/ch/image84488057252.jpg",Gunma TV 
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png",HauntTV  
 https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
