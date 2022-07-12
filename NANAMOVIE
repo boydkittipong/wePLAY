@@ -1,5 +1,51 @@
 #EXTM3U
-#EXTINF: -1  tvg-logo="https://www.coolstreaming.us/img/ch/image84488057252.jpg",Gunma TV 
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbo-hd.webp",HBO
+https://mediasv.online/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzc6NDQgUE0maGFzaF92YWx1ZT1tRGRuOU1ITXZNZzlRSXJjc2VIcG13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU4NzY0
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbo-family-hbof48.webp",HBO FAMILY
+https://mediasv.online/stream_live/hbof/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTU6MjcgUE0maGFzaF92YWx1ZT1VRUp1Slc5WmcvN1FGTTJzUmFRQVB3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzg4NDQw
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbosignature-hd.webp",HBO SIGNATURE
+https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzk6MTUgUE0maGFzaF92YWx1ZT1pL2MrY0ZHK0MybjhuWVl5ZEozeGV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzcwMzU0
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
+https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzM6MDEgUE0maGFzaF92YWx1ZT1OaDVCRjEwWWRILytidzhjVjBsb2xBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzE3NjQx
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/moviehis.webp",TRUE MOVIE HITS
+https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjg6MjIgUE0maGFzaF92YWx1ZT0xek4vSzB2MTFQZmNKVTJBNFhKV1BnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI0JmlkPWNoXzU0MzI4
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ture-thaifiam.webp",TRUE THAI FILM
+https://mediasv.online/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzE6MzUgUE0maGFzaF92YWx1ZT1PMXlYVzVndENZd09tdzY1Z2NxdytBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzYxMjQ0
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-film-hd270.webp",TRUE FILM HD2
+https://mediasv.online/stream_live/True_Film_HD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzk6MzkgUE0maGFzaF92YWx1ZT1vcUlranlLTHlXSzNJZ3pPOU5taUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzQyMjMw
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/food-network51.webp",FOOD NETWORK
+https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6NTkgUE0maGFzaF92YWx1ZT13clIxbHMyRXNZYUVHTEV0OWlGRDJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM4MDcx
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/xzyte-hd.webp",XZYTE
+https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6NDIgUE0maGFzaF92YWx1ZT0vcTV0TXpydVB4S0EvOGc4K2ZvV3hRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzQ1MzE5
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/rock-entertainment69.webp",ROCK ENTERTAINMENT
+https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6MDIgUE0maGFzaF92YWx1ZT1BSHZXYUZBcldXSHRINUJCSmRPcDVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTM0JmlkPWNoXzk5Mjg5
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/rock-extreme25.webp",ROCK EXTREME
+https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6MjAgUE0maGFzaF92YWx1ZT0rTi9RV0xpS3lmQmo3ZEdmbkgzKzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzE4MzU1
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kmtv77.webp",KMTV
+https://mediasv.online/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzU6MjEgUE0maGFzaF92YWx1ZT1DcDYvQUZLMGl1dlEvL2tGVTFiYjBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzY4ODA4
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tvn-hd.webp",TVN
+https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6MjUgUE0maGFzaF92YWx1ZT1CR2MrOUJHWDh6RkRwanVZNHl1VGJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzQwMTM1
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",TRUE ASIAN MORE
+https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6MDQgUE0maGFzaF92YWx1ZT1mVklLbzdJR3p3a0NaSzVBdkxGWTNRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzM4NzMz
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",TRUE CHAINESE MORE
+https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjg6NDEgUE0maGFzaF92YWx1ZT1kNjdNdDhTZno1Sldac2ZWVlVBckV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMxJmlkPWNoXzEwMzU1
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-korean-more50.webp",TRUE KOREAN MORE
+https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjk6MjQgUE0maGFzaF92YWx1ZT02RnBlZjY3N3k5V1NKZDdmMmx0cXpnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI2JmlkPWNoXzMyNzM4
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/gem48.webp",GEM
+https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6NDQgUE0maGFzaF92YWx1ZT1KQ3prTVJTWjFucFJQN3lTQ3NGSU1nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNTIw
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/afn35.webp",AFN
+https://mediasv.online/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzY6NDQgUE0maGFzaF92YWx1ZT0zbjFQdW1meFp5bHRFaEs5ancra0J3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzgzNTY2
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
+https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzA6NTQgUE0maGFzaF92YWx1ZT0xd2U5VittQU1Vd3lJYVZvbHcrQU93PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU4NjY0
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hits.webp",HITS
+https://mediasv.online/stream_live/AIS-HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzg6MDMgUE0maGFzaF92YWx1ZT1PRUZtY09HL2dFbTNYK2pVbmtwckdBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzg5MTc1
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hits-movies.webp",HITS MOVIES
+https://mediasv.online/stream_live/AIS-HITS-Movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzg6MjMgUE0maGFzaF92YWx1ZT1YYUpVeThqUmtGMzVJbXBFS0JsQjBBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzczNjEy
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/spark-jump.webp",SPARK JUMP
+https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDg6MDQgUE0maGFzaF92YWx1ZT1DaFBUYzhMMHNPNk5hOHozelBYQUFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzQwOTYw
+
+
+#EXTINF: -1 tvg-logo="https://www.coolstreaming.us/img/ch/image84488057252.jpg",Gunma TV 
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png",HauntTV  
 https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
