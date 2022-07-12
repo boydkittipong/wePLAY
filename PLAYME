@@ -26,6 +26,12 @@
 "import": false
 },
 {
+"name": "บันเทิง V.2",
+"image": "https://www.i-pic.info/i/5Dbz192121.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NANAMOVIE",
+"import": false
+},
+{
 "name": "การ์ตูน",
 "image": "https://www.i-pic.info/i/UvoL187619.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CARTOON",
@@ -59,12 +65,6 @@
 "name": "I-MOVIEHD",
 "image": "https://www.i-pic.info/i/Wxhb187635.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
-"import": false
-},
-{
-"name": "Nana Movie",
-"image": "https://www.i-pic.info/i/Jawd190450.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NANAMOVIE",
 "import": false
 },
 {
