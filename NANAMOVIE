@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",us-foxsports2
-https://edge-s2d.onlineprostream.com:442/kmf743jnd-th1/us-foxsports2_480/chunks.m3u8|Referer=https://ufac4.net/
-#EXTINF:-1 tvg-logo="",us-foxsports2
-https://edge-s2d.onlineprostream.com:442/kmf743jnd-th1/us-foxsports2_480/chunks.m3u8
-#EXTINF:-1 tvg-logo="",us-foxsports2
 https://edge-s2d.onlineprostream.com:442/kmf743jnd-th1/us-foxsports2_480/chunks.m3u8?nimblesessionid=6715161&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDg6MDk6NTIgQU0maGFzaF92YWx1ZT1RT2sveW9uV3VqQVU1dkZCcVNmaGFnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9NzA5OTExNXx1ZmFjNC5uZXR8TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NTc2OTk3OTJ8dXMtZm94c3BvcnRzMl80ODB8NzA5OTExNXwxLjIuMTY3LjE0OA==
 #EXTINF:-1 tvg-logo="", CCTV-4
 http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
@@ -49,19 +45,19 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/clarity_4K.png" group-title="4K CHANNEL", Clarity 4k
+#EXTINF:-1 tvg-logo="http://images.zaltv.club/logo/clarity_4K.png", Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng", Loupe 4K
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng", Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png", A3 Bikini
+#EXTINF:-1 tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png", A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", Kaloopy
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", Fashion TV Midnight
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?cc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/fashionhd-4k.png", FashionTV 4K
+#EXTINF:-1 tvg-logo="http://images.zaltv.club/logo/fashionhd-4k.png", FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami Tv
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami Tv
 http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
