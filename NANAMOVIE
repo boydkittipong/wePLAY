@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",us-foxsports2
-https://edge-s2d.onlineprostream.com:442/kmf743jnd-th1/us-foxsports2_480/chunks.m3u8?nimblesessionid=6715161&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDg6MDk6NTIgQU0maGFzaF92YWx1ZT1RT2sveW9uV3VqQVU1dkZCcVNmaGFnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9NzA5OTExNXx1ZmFjNC5uZXR8TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NTc2OTk3OTJ8dXMtZm94c3BvcnRzMl80ODB8NzA5OTExNXwxLjIuMTY3LjE0OA==
+https://vdownload-25.sb-cd.com/1/0/10584416-1080p.mp4?secure=RpsFIVJSfEO9PNXdHYTYOA,1657795904&m=25&d=2&_tid=10584416
+#EXTINF:-1 tvg-logo="",us-foxsports2
+https://vdownload-14.sb-cd.com/1/0/10573173-1080p.mp4?secure=kHj3oU0FYxNOb9TOkPm9JQ,1657796101&m=14&d=6&_tid=10573173
 #EXTINF:-1 tvg-logo="", CCTV-4
 http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
 #EXTINF:-1 tvg-logo="", TV5MONDE ASIE
