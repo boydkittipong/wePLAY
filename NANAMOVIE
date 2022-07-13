@@ -3,6 +3,8 @@
 https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BT SPORT 1
 https://ed3.zorrohd2.nl/live/flowitca3hx.m3u8
+#EXTINF:-1 tvg-logo="",BT SPORT 2
+https://ed3.zorrohd2.nl/live/flowitca5ki.m3u8
 #EXTINF:-1 tvg-logo="",Premiere 3 Brasil
 http://fs.freestreams-live1.com/premiere-3-brasil/
 #EXTINF:-1 tvg-logo="",us-foxsports2
