@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax1tr.gif",beIN Sports Max 1 Turkey
+https://v2.streamling.cc/maks1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax2tr.gif",beIN Sports Max 2 Turkey
+https://v2.streamling.cc/maks2/index.m3u8
 #EXTINF:-1 tvg-logo="",BT SPORT 1
 https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BT SPORT 1
