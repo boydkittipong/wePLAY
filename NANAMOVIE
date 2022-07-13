@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",BT SPORT 1
+https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",BT SPORT 1
+https://ed3.zorrohd2.nl/live/flowitca3hx.m3u8
+#EXTINF:-1 tvg-logo="",Premiere 3 Brasil
+http://fs.freestreams-live1.com/premiere-3-brasil/
 #EXTINF:-1 tvg-logo="",us-foxsports2
 https://str-25.filestore.app/2f9e637f92a86/64a6a2dbc1308/alternative_resolution_e5b986f6e693a_360p.mp4?temp_url_expires=1657839594&temp_url_id=cd0c754e-e3cd-4e1c-b027-1e2e09dbab23&countable=true&filename=84374457565140784400186524.mp4&inline=true&content_type=video%2Fmp4&concurrency=32&rate_limit=0&response_limit=0&ip_access_policy=first&tags=xf%3Axf%2Cvideo%3Avideo%2Cfull%3Afull%2C360p%3A360p%2Cwebapi%3Awebapi&temp_url_issuer=5445f78a91de707b297e67ed&temp_url_sig=96b6ab51f3cf89a1fb6f182994b0debeacd49660ec4a28edd7e7ab67021d4743f3d2862537a465928292082d79205eae4dce537c2dcca8918b7c50a0ebc1fcc8&client_ip=1.2.167.148
 #EXTINF:-1 tvg-logo="",us-foxsports2
