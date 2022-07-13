@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",us-foxsports2
+https://str-25.filestore.app/2f9e637f92a86/64a6a2dbc1308/alternative_resolution_e5b986f6e693a_360p.mp4?temp_url_expires=1657839594&temp_url_id=cd0c754e-e3cd-4e1c-b027-1e2e09dbab23&countable=true&filename=84374457565140784400186524.mp4&inline=true&content_type=video%2Fmp4&concurrency=32&rate_limit=0&response_limit=0&ip_access_policy=first&tags=xf%3Axf%2Cvideo%3Avideo%2Cfull%3Afull%2C360p%3A360p%2Cwebapi%3Awebapi&temp_url_issuer=5445f78a91de707b297e67ed&temp_url_sig=96b6ab51f3cf89a1fb6f182994b0debeacd49660ec4a28edd7e7ab67021d4743f3d2862537a465928292082d79205eae4dce537c2dcca8918b7c50a0ebc1fcc8&client_ip=1.2.167.148
+#EXTINF:-1 tvg-logo="",us-foxsports2
 https://vdownload-25.sb-cd.com/1/0/10584416-1080p.mp4?secure=RpsFIVJSfEO9PNXdHYTYOA,1657795904&m=25&d=2&_tid=10584416
 #EXTINF:-1 tvg-logo="",us-foxsports2
 https://vdownload-14.sb-cd.com/1/0/10573173-1080p.mp4?secure=kHj3oU0FYxNOb9TOkPm9JQ,1657796101&m=14&d=6&_tid=10573173
