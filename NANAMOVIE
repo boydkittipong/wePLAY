@@ -1,85 +1,64 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiACJcGClU-wGm1oLZG1Vgkuze0H7T-ueHcL7MPsrwMIGYJSYgUpeGouPVcvCoKIoONyLaSiS2XSJTRMHXv4WEkkeIw1hfvg3KYDVRDoxFFF02s4NzPuOYkEOyx3hyiL_HCqAf46w8u6LXDFX65istDiNriI__y3ablADjKdLbdJZRLIolEhTx1V49P/s200/WWE_Network_logo.jpeg",WWE Network
-https://www.tvmalaysia.online/2021/06/wwe-network.html
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbo-hd.webp",HBO
-https://mediasv.online/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzc6NDQgUE0maGFzaF92YWx1ZT1tRGRuOU1ITXZNZzlRSXJjc2VIcG13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU4NzY0
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbo-family-hbof48.webp",HBO FAMILY
-https://mediasv.online/stream_live/hbof/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTU6MjcgUE0maGFzaF92YWx1ZT1VRUp1Slc5WmcvN1FGTTJzUmFRQVB3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzg4NDQw
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbosignature-hd.webp",HBO SIGNATURE
-https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzk6MTUgUE0maGFzaF92YWx1ZT1pL2MrY0ZHK0MybjhuWVl5ZEozeGV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzcwMzU0
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
-https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzM6MDEgUE0maGFzaF92YWx1ZT1OaDVCRjEwWWRILytidzhjVjBsb2xBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzE3NjQx
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/moviehis.webp",TRUE MOVIE HITS
-https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjg6MjIgUE0maGFzaF92YWx1ZT0xek4vSzB2MTFQZmNKVTJBNFhKV1BnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI0JmlkPWNoXzU0MzI4
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ture-thaifiam.webp",TRUE THAI FILM
-https://mediasv.online/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzE6MzUgUE0maGFzaF92YWx1ZT1PMXlYVzVndENZd09tdzY1Z2NxdytBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzYxMjQ0
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-film-hd270.webp",TRUE FILM HD2
-https://mediasv.online/stream_live/True_Film_HD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzk6MzkgUE0maGFzaF92YWx1ZT1vcUlranlLTHlXSzNJZ3pPOU5taUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzQyMjMw
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/food-network51.webp",FOOD NETWORK
-https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6NTkgUE0maGFzaF92YWx1ZT13clIxbHMyRXNZYUVHTEV0OWlGRDJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM4MDcx
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/xzyte-hd.webp",XZYTE
-https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6NDIgUE0maGFzaF92YWx1ZT0vcTV0TXpydVB4S0EvOGc4K2ZvV3hRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzQ1MzE5
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/rock-entertainment69.webp",ROCK ENTERTAINMENT
-https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6MDIgUE0maGFzaF92YWx1ZT1BSHZXYUZBcldXSHRINUJCSmRPcDVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTM0JmlkPWNoXzk5Mjg5
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/rock-extreme25.webp",ROCK EXTREME
-https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzQ6MjAgUE0maGFzaF92YWx1ZT0rTi9RV0xpS3lmQmo3ZEdmbkgzKzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzE4MzU1
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kmtv77.webp",KMTV
-https://mediasv.online/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzU6MjEgUE0maGFzaF92YWx1ZT1DcDYvQUZLMGl1dlEvL2tGVTFiYjBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzY4ODA4
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tvn-hd.webp",TVN
-https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6MjUgUE0maGFzaF92YWx1ZT1CR2MrOUJHWDh6RkRwanVZNHl1VGJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzQwMTM1
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",TRUE ASIAN MORE
-https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6MDQgUE0maGFzaF92YWx1ZT1mVklLbzdJR3p3a0NaSzVBdkxGWTNRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzM4NzMz
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",TRUE CHAINESE MORE
-https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjg6NDEgUE0maGFzaF92YWx1ZT1kNjdNdDhTZno1Sldac2ZWVlVBckV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMxJmlkPWNoXzEwMzU1
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-korean-more50.webp",TRUE KOREAN MORE
-https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mjk6MjQgUE0maGFzaF92YWx1ZT02RnBlZjY3N3k5V1NKZDdmMmx0cXpnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI2JmlkPWNoXzMyNzM4
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/gem48.webp",GEM
-https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzI6NDQgUE0maGFzaF92YWx1ZT1KQ3prTVJTWjFucFJQN3lTQ3NGSU1nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNTIw
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/afn35.webp",AFN
-https://mediasv.online/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzY6NDQgUE0maGFzaF92YWx1ZT0zbjFQdW1meFp5bHRFaEs5ancra0J3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzgzNTY2
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
-https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzA6NTQgUE0maGFzaF92YWx1ZT0xd2U5VittQU1Vd3lJYVZvbHcrQU93PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU4NjY0
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hits.webp",HITS
-https://mediasv.online/stream_live/AIS-HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzg6MDMgUE0maGFzaF92YWx1ZT1PRUZtY09HL2dFbTNYK2pVbmtwckdBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzg5MTc1
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hits-movies.webp",HITS MOVIES
-https://mediasv.online/stream_live/AIS-HITS-Movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6Mzg6MjMgUE0maGFzaF92YWx1ZT1YYUpVeThqUmtGMzVJbXBFS0JsQjBBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzczNjEy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", CCTV-4
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", TV5MONDE ASIE
+http://210.210.155.35/dr9445/s/s24/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
 
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/spark-jump.webp",SPARK JUMP
-https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDg6MDQgUE0maGFzaF92YWx1ZT1DaFBUYzhMMHNPNk5hOHozelBYQUFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzQwOTYw
-#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp",TRUE SPARK PLAY
-https://mediasv.online/stream_live/TRUE_SPARK_PLAY/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDk6MzcgUE0maGFzaF92YWx1ZT1PTWg5RmhGSldoYWhRZ1RNUndnZXN3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzgyMDc1
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK
-https://mediasv.online/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDg6MjYgUE0maGFzaF92YWx1ZT1zMFpRYnhuSWUyMTNZQ1VWZENqbGhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzY3MjEw
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/dreamworks93.webp",DREAMWORKS
-https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDk6MTkgUE0maGFzaF92YWx1ZT1Oc253R3ZUVlhrREhvSDdBTytGS3ZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU1NTA5
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/next-kid10.webp",NEXTKID
-https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTU6MDQgUE0maGFzaF92YWx1ZT1NZkp6Q3ZsRUxiZnErS2pqazAxSGtBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzQ4NjYy
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/just-fun46.webp",JUSTFUN
-https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTE6NDAgUE0maGFzaF92YWx1ZT1DY3UySGhLR3lqaDI5aHdLU2ttNmJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzcxOTQ3
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/nickelodeon14.webp",NICKELODEON
-https://mediasv.online/stream_live/AIS-Nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDg6NDQgUE0maGFzaF92YWx1ZT1ld0FydnFUUWZiNEZBd2tBdlpaeTBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzczMTQ0
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/BbNd161116.png",NICK JR.
-https://mediasv.online/stream_live/AIS-NickJr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDk6MDEgUE0maGFzaF92YWx1ZT1EZnpTUFJGcWhrK09vdmk4NTkweEhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzE3NzE2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", eGG
+http://210.210.155.35/uq2663/h/h22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Animax
+http://210.210.155.35/dr9445/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", ANIPLUS
+http://210.210.155.35/dr9445/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 
-#EXTINF:-1  tvg-logo="https://doofreemovie88.com/public/upload/cover/true-music84.webp",TRUE MUSIC
-https://mediasv.online/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6MzY6MTkgUE0maGFzaF92YWx1ZT1rWGIzMU0vQlNQWWN2UFVyTGlneGJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzIxNjE1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", AXN
+http://210.210.155.35/dr9445/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", ROCK Entertainment
+http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", ROCK Extreme
+http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", KIX
+http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", GEM
+http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GEM_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", tvN Movies
+http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", tvN
+http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", K-PLUS
+http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", ONE
+http://210.210.155.35/uq2663/h/h143/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ONE_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", CCM (Celestial Classic Movies)
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
 
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tp-football-117.webp",REAL METRO
-https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTI6MjUgUE0maGFzaF92YWx1ZT01bWpHK3dSaW1Db2k1Y3VTaWM0dThRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMxJmlkPWNoXzc0Njg3
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/heart56.webp",HEART
-https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTM6MDIgUE0maGFzaF92YWx1ZT1VZHF6T1k3eWtpUHRhb0pUVTBoUnlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzQwMTY0
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/sweet26.webp",SWEET
-https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NTI6NDcgUE0maGFzaF92YWx1ZT03SFpPK1FwZUlOR3o5Ry9QdktHekZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzcyMzgx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", FIGHT SPORTS
+http://210.210.155.35/dr9445/h/h05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Motorvision TV
+http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://doofreemovie88.com/public/upload/cover/outdoor50.webp",OUTDOOR
-https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDc6NDM6NTggUE0maGFzaF92YWx1ZT1NRE11YzNISXFaMnVqQWZieEFpNGZRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzE3NzM2
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="4K CHANNEL", Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/clarity_4K.png" group-title="4K CHANNEL", Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="4K CHANNEL", Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png" group-title="4K CHANNEL", A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg" group-title="4K CHANNEL", Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="4K CHANNEL", Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/fashionhd-4k.png" group-title="4K CHANNEL", FashionTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="4K CHANNEL", Miami Tv
+http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.coolstreaming.us/img/ch/image84488057252.jpg",Gunma TV 
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
