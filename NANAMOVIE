@@ -13,7 +13,8 @@ https://v2.streamling.cc/maks1/index.m3u8
 https://v2.streamling.cc/maks2/index.m3u8
 
 #EXTINF:-1 tvg-logo="",bein Sports 1
-https://srv.vhls.ru.com/cdn/premium91/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium91/chunks.m3u8|Referer=http://fs.freestreams-live1.com/
 
 #EXTINF:-1 tvg-logo="https://tb-lb.sb-cd.com/t/11321321/1/1/w:500/t4-enh/booby-blondie-plays-her-cards.jpg",Booby Blondie Plays Her Cards Well
 https://vdownload-11.sb-cd.com/1/1/11321321-1080p.mp4?secure=nZ2uSH6bji-W1KV7VUBy8A,1657824079&m=11&d=5&_tid=11321321
