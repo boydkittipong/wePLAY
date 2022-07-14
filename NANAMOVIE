@@ -3,47 +3,52 @@
 https://v2.streamling.cc/maks1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax2tr.gif",beIN Sports Max 2 Turkey
 https://v2.streamling.cc/maks2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tab3-live.com/wp-content/uploads/2021/04/bein-sport-xtra-1.jpg", beIN Sport Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png", beIN Sport Xtra n
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-logo="", CCTV-4
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
-#EXTINF:-1 tvg-logo="", TV5MONDE ASIE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3rL-vVwCU1ZWk8L-YXZaDb6HD6aAcPOrBzptu33BwvuLbZHHqNn-YH5rofWS0OVOmS4=w240-h480-rw", TV5MONDE ASIE
 http://210.210.155.35/dr9445/s/s24/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
-#EXTINF:-1 tvg-logo="", CGTN Documentary
+#EXTINF:-1 tvg-logo="http://fltaradio.com/upload/2018/09/cgtn-documentary.jpg", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
 
-#EXTINF:-1 tvg-logo="", eGG
+#EXTINF:-1 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273351013%27&EntityType=%27Item%27&EntityId=%27229224%27&Width=300&Height=300&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", EGG
 http://210.210.155.35/uq2663/h/h22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
-#EXTINF:-1 tvg-logo="", Animax
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HphQ7CbwfWYvscZsEBdBxzqdCvpLi60W-sZKo2G2N5zsF77LrV7qj3yvkJIgdaNpfDw=w300", ANIMAX
 http://210.210.155.35/dr9445/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
-#EXTINF:-1 tvg-logo="", ANIPLUS
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 
-#EXTINF:-1 tvg-logo="", AXN
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M4cHamItRchHJM6YRty6IMgF4kpp5B7ofe10r37ZqLjNi3a183uhJ3ueZSQRH2S-hi_A", AXN
 http://210.210.155.35/dr9445/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
-#EXTINF:-1 tvg-logo="", ROCK Entertainment
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
 http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
-#EXTINF:-1 tvg-logo="", ROCK Extreme
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
 http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
-#EXTINF:-1 tvg-logo="", KIX
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
 http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
-#EXTINF:-1 tvg-logo="", GEM
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/gem48.webp",GEM
 http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GEM_HD
-#EXTINF:-1 tvg-logo="", tvN Movies
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRDAqm-Mzjn-yotyvLTYrkjfNHN2k7_cc_964QFmA=s900-c-k-c0x00ffffff-no-rj", TVN MOVIES
 http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
-#EXTINF:-1 tvg-logo="", tvN
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tvn-hd.webp",TVN
 http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
-#EXTINF:-1 tvg-logo="", K-PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg", K-PLUS
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
-#EXTINF:-1 tvg-logo="", ONE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg", ONE
 http://210.210.155.35/uq2663/h/h143/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ONE_HD
-#EXTINF:-1 tvg-logo="", CCM (Celestial Classic Movies)
+#EXTINF: -1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
-#EXTINF:-1 tvg-logo="", Thrill
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
 
-#EXTINF:-1 tvg-logo="", FIGHT SPORTS
+#EXTINF:-1 tvg-logo="https://sports-entco.com/wp-content/gallery/client-showcase/fight-sports-network-logo2.jpg", FIGHT SPORTS
 http://210.210.155.35/dr9445/h/h05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
-#EXTINF:-1 tvg-logo="", Motorvision TV
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Y90E149426.png",MOTORVISION
 http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
@@ -52,7 +57,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng", Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png", A3 Bikini
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/1q6y150076.png",A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
