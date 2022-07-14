@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium41/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium41/tracks-v1a1/mono.m3u8|Referer=http://ge.freestreams-live1.com
 
 #EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg",CANAL+ SPORT France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
