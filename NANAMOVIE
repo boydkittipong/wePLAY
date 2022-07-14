@@ -14,9 +14,9 @@ https://v2.streamling.cc/maks2/index.m3u8
 
 #EXTINF:-1 tvg-logo="",bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://live.wowaha.tv/live/16/chunks.m3u8
+https://live.wowaha.tv/live/23/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",Singapore Open 2022
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos-domain/4be2cc310000640005085a57/255x0.png",GN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://srv.vhls.ru.com/cdn/premium91/chunks.m3u8|Referer=http://fs.freestreams-live1.com/
 
