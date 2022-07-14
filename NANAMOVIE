@@ -1,25 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium41/tracks-v1a1/mono.m3u8|Referer=http://fs.freestreams-live1.com/
-
-#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg",CANAL+ SPORT France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://c4gf6enucsb3yzh9.cdnexpress37.net:8443/hls/brilq81faz0axa.m3u8?s=whtv7JE6iWl7Bam_avfq3g&e=1657802912|Referer=http://fs.freestreams-live1.com/
-
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax1tr.gif",beIN Sports Max 1 Turkey
 https://v2.streamling.cc/maks1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax2tr.gif",beIN Sports Max 2 Turkey
 https://v2.streamling.cc/maks2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos-domain/4be2cc310000640005085a57/255x0.png",GN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://live.wowaha.tv/live/23/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="",bein Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium91/chunks.m3u8|Referer=http://fs.freestreams-live1.com/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1449095414838398977/qzhk8iTc_400x400.jpg",Booby Blondie Plays Her Cards Well
 https://vdownload-11.sb-cd.com/1/1/11321321-1080p.mp4?secure=nZ2uSH6bji-W1KV7VUBy8A,1657824079&m=11&d=5&_tid=11321321
