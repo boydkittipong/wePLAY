@@ -1,4 +1,112 @@
 #EXTM3U
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Ten.Sports
+http://208.86.19.13:81/711.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a4465be3098929ade9f44fc9629ff70f.png",FOXSPORTS 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162517
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",HBO.Family
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/197055
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",HBO.HITS
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/196480
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",HBO
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266811
+
+
+#EXTINF:-1 vg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png",Asian Food Network
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157549
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png",HBO
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157518
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png",HGTV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157553
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png",Hits
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157545
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png",HITS Movies
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157477
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/bba062dc58f6eea5230447581f362846.png",KBS World
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157475
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c225d1d803382469023328e117bea5e3.png",KPLUS
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157567
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/96d8df7f3f6a3d31fe225eab91595305.png",NATGEO Wild
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174724
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png",Nick Junior
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157546
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0197f691d3ea49bd01cf9f65fec92ec5.png",ONE
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158349
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/26c36bfa1b947fa65c4a9257f60cb961.png",Phoenix InfoNews
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264509
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png",RTM TV 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157491
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4c189d4037c8e205aa5ef38b968cbf69.png",TVB Classic
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157510
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c6a5e644fa00bde3ddf02f78b8ca44b9.png",TVN
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157476
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9f981ae25467aa645e1cde4f95eed4fe.png",TVN Movies
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157520
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png",Warner TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7601b62d75399bcd7de152a731b9c856.png",WWE
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285307
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg",ZooMoo
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285308
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c80306dd7c7ecc095c9d4d21750f1b.png",Fox.Family.Movies
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157595
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png",Fox.Life
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165083
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png",Fox.Movies.Action
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157608
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png",Thrill
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157580
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png",Kids TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162505
+
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png",ANIMAL PLANET
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157532
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",ANiPlus
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157611
+
+
+#EXTINF:-1  tvg-logo"https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
+
+#EXTINF:0 tvg-logo="", FOX SPORTS 2
+http://ccdn.pw:80/WY1NB/Felialagoas10/71952.ts
+#EXTINF:0 tvg-logo="", ESPN 1
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:0 tvg-logo="", ESPN 2
+http://line.live-main.live:80/4DAF57/A6F765/101660
+#EXTINF:0 tvg-logo="", ESPN 3
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:0 tvg-logo="", ESPN 4
+http://line.live-main.live:80/4DAF57/A6F765/101672
+#EXTINF:0 tvg-logo="", ESPN EXTRA
+http://line.live-main.live:80/4DAF57/A6F765/101663
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",SPOtv
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",SPOtv2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png",PH:beINSports 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/282772
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0f7e4fa00f68aa1f55a75298247ab794.jpg",PH:beINSports 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/282773
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png",PH:beINSports 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266844
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/1276a18754d533f030c4e60576525b43.png",VN:VTV 6
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/172023
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax1tr.gif",beIN Sports Max 1 Turkey
 https://v2.streamling.cc/maks1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fegy%2fbeinmax2tr.gif",beIN Sports Max 2 Turkey
