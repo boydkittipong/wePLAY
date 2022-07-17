@@ -277,10 +277,7 @@ http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EMOa167251.png",SITV
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/anwqqIH.png",FIGHT BOX
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/tT03ZHTTTjW42ibOAgc-gwnwxQcb_Q2gx9RKK2dha3maszhN4U93EW6RlQhCBGXEx8r2EhUb=s900-c-k-c0x00ffffff-no-rj", TNT Sports Brasil
