@@ -146,6 +146,18 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/sport-inter/ar
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/arenasport4/chunks.m3u8|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mYX0161146.png",ARENA SPORT 5
 http://5.206.237.66:9000/play/a074
+
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png",ARENA SPORT 1
+https://livesod88.com/?id=854882&ch=arenasport1serbia
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PxIR161143.png",ARENA SPORT 2
+https://livesod88.com/?id=848674&ch=arenasport2serbia
+#EXTINF:-1 tvg-logo="https://www.iconsdb.com/icons/preview/caribbean-blue/6-filled-xxl.png",6 EREN
+https://livesod88.com/?id=854419&ch=6eren
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png",sport1plus
+https://livesod88.com/?id=857470&ch=sport1plus
+
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ybng150064.png",EURO SPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RcsE150066.png",EURO SPORT 2
