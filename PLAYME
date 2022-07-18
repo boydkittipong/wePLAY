@@ -79,6 +79,12 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
 "import": false
 },
+{
+"name": "MIX TV",
+"image": "https://www.livetracklist.com/wp-content/uploads/mix-artwork-300x300.jpg",
+"url": "https://pastebin.com/raw/SN5t386i",
+"import": false
+},
  
 ]
 }
