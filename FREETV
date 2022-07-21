@@ -48,7 +48,7 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://server1.streamssl.com/stream/news1_mid.m3u8
+https://news1live.com/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1541999054380335106/qF7964l0_400x400.jpg",VOICE TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBeyHt40CroxgNk7GLFLFEdy1H6ddMtLm7VMYUpvzNxPfTRa3dkm5cjl9Zin53fqX8g",TGN
