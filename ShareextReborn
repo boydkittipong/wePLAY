@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",cricket
+https://ms2.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=191944799255&id=114607&pk=f1116b06be60a6f14444c35f5564d66a8ff85fc8162446c246f389bc2d917dd181856e1b600af5e5fb4edd9712970167c230c4e6dd7d4a8336d0232d695eb177
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",GEM
 https://plyyr.tv/watch/live-tv/gem
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",GEM
