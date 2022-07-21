@@ -85,6 +85,12 @@
 "url": "https://pastebin.com/raw/SN5t386i",
 "import": false
 },
+{
+"name": "plyyr tv",
+"image": "https://plyyr.tv/img/logo.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ShareextReborn",
+"import": false
+},
  
 ]
 }
