@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",GEM
+https://plyyr.tv/watch/live-tv/gem
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",GEM
+https://live.plyyr.tv/plyyr_x2/gem/chunks.m3u8?nimblesessionid=391525&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDIyIDEyOjE2OjA1IFBNJmhhc2hfdmFsdWU9VUZmbUZwM0NqUEdzSmc2UDk4RXBpUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",WELCOME_By.ShareextReborn
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Admin@Group
