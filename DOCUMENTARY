@@ -7,6 +7,8 @@ https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=h
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL 
+https://plyyr.tv/watch/tv-online/discovery-channel
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
