@@ -44,11 +44,12 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT CENTRAL
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://news1live.com/
+http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1541999054380335106/qF7964l0_400x400.jpg",VOICE TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBeyHt40CroxgNk7GLFLFEdy1H6ddMtLm7VMYUpvzNxPfTRa3dkm5cjl9Zin53fqX8g",TGN
