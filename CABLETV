@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTlbYi2vPMbl39jzuYcQ1KjvhqNIRDk_ic5txK=s900-c-k-c0x00ffffff-no-rj",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/AGu7155232.png",HI CABLE TV
@@ -45,6 +43,8 @@ http://203.154.243.89:28008/nakhon/nakhonplange
 http://203.154.243.89:28008/nakhon/monplange
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268156980599779330/EsDSmTDd_400x400.jpg",WHITE CHANNEL
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTlbYi2vPMbl39jzuYcQ1KjvhqNIRDk_ic5txK=s900-c-k-c0x00ffffff-no-rj",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOf34j8agmAeiyLEi-I21vBs7nBTmKhZ-tQKUQa",HAPPY TV
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
