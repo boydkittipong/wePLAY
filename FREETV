@@ -44,7 +44,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT CENTRAL
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
