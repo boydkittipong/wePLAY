@@ -1,32 +1,45 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png",elevensports1pt
 https://livesod88.com/?id=842043&ch=elevensports1pt
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1501.png",elevensports2pt
+https://livesod88.com/?id=860787&ch=elevensport2pt
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",arenasport1
 https://livesod88.com/?id=854885&ch=arenasport1serbia
-#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",digisport4romania
-https://livesod88.com/?id=860784&ch=digisport4romania
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",astrosupersport
 https://livesod88.com/?id=861459&ch=astrosupersport
+
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",sportklub1slovenia
+https://livesod88.com/?id=860682&ch=sportklub1slovenia
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",sportklub3slovenia
 https://livesod88.com/?id=861459&ch=sportklub3slovenia
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png",sportklub4slovenia
+https://livesod88.com/?id=850243&ch=sportklub4slovenia
+
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",digisport1romania
 https://livesod88.com/?id=862544&ch=digisport1romania
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--881.png",digisport2romania
 https://livesod88.com/?id=862544&ch=digisport2romania
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",digisport4romania
+https://livesod88.com/?id=860784&ch=digisport4romania
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",diemasport1
 https://livesod88.com/?id=856138&ch=diemasport1
-#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png",sportklub4slovenia
-https://livesod88.com/?id=850243&ch=sportklub4slovenia
-#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",sportklub1slovenia
-https://livesod88.com/?id=860682&ch=sportklub1slovenia
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",canal11pt
 https://livesod88.com/?id=869292&ch=canal11pt
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",espnbrazil
 https://livesod88.com/?id=869292&ch=espnbrazil
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--733.png",matchfootball1
 https://livesod88.com/?id=869292&ch=matchfootball1
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",bein1premiumarab
 https://livesod88.com/?id=869292&ch=bein1premiumarab
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1166.png",bein1englisharab
+https://livesod88.com/?id=861525&ch=bein1englisharab
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",sportv
 https://livesod88.com/?id=849822&ch=sportv
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--61.png",foxsports2usa
@@ -37,11 +50,18 @@ https://livesod88.com/?id=828656&ch=btsport1
 https://livesod88.com/?id=842044&ch=mutv
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",tv3max
 https://livesod88.com/?id=861525&ch=tv3max
+
 #EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",sporttv1
 https://livesod88.com/?id=861525&ch=sporttv1
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",sporttv2
+https://livesod88.com/?id=861389&ch=sporttv2
 
 
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",ziggosportselect
+https://livesod88.com/?id=861389&ch=ziggosportselect
 
+#EXTINF:-1  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--166.png",sport1hd
+https://livesod88.com/?id=861389&ch=sport1hd
 
 
 
