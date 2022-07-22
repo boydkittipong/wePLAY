@@ -1,30 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
-https://plyyr.tv/watch/tv-online/ccm
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/paramount-channel92.webp",PARAMOUNT
-https://plyyr.tv/watch/tv-online/paramount-channel
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KJxH156890.png",TRUE ASIAN MORE
-https://plyyr.tv/watch/tv-online/true-asian-more
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
-https://plyyr.tv/watch/tv-online/true-chinese-more
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/aRhl156899.png",TRUE KOREAN MORE
-https://plyyr.tv/watch/tv-online/true-korean-more
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Tsnc156894.png",GEM
-https://plyyr.tv/watch/tv-online/gem
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/xzyte-hd.webp",TRUE XZYTE
-https://plyyr.tv/watch/tv-online/true-xzyte
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
-https://plyyr.tv/watch/tv-online/rock-extreme
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT 
-https://plyyr.tv/watch/tv-online/rock-entertainment
-
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/dZvR148415.png",TRUE MOVIE HITS
-https://plyyr.tv/watch/tv-online/true-movie-hits
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://freetvdd.com
 
