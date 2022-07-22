@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",cricket
-https://ms2.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=191944799255&id=114607&pk=f1116b06be60a6f14444c35f5564d66a8ff85fc8162446c246f389bc2d917dd181856e1b600af5e5fb4edd9712970167c230c4e6dd7d4a8336d0232d695eb177
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAFWv5vbENnYROrwnbhEX-x7MzJ-0iZhw_sds7cc62BBYpO-FlL7i9Ep0PGWybx9rQ6k&usqp=CAU",ESPN 2 USA
-https://srv.vhls.ru.com/cdn/premium45/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAFWv5vbENnYROrwnbhEX-x7MzJ-0iZhw_sds7cc62BBYpO-FlL7i9Ep0PGWybx9rQ6k&usqp=CAU",ESPN 2 USA V2
-https://daddylive.one/cast/stream-45.php
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",D
-https://srv.vhls.ru.com/cdn/premium313/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",D
-https://daddylive.one/stream/stream-313.php
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",WELCOME_By.ShareextReborn
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Admin@Group
