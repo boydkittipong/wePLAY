@@ -48,7 +48,7 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOf34j8agmAeiyLEi-I21vBs7nBTmKhZ-tQKUQa",HAPPY TV
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg",THAI VARIETY
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/zAOY198280",THAI VARIETY
 https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vNAe189327.jpg",ESAN TV
 https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
@@ -62,7 +62,7 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/tb-tv.png",THAIBAAN
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR-nrUU-e8jdTzVAbTj3V0IG2SB1keY284yzbE8=s900-c-k-c0x00ffffff-no-rj",69TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mees9SRo6CsqBBaPe-pC2ZdBpiJ91FuxlX4S-qggMw9MKj93ShVgKmVo3eDUPEw47kgm77maHw=s900-c-k-c0x00ffffff-no-rj",66TV
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
