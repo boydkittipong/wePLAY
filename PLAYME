@@ -109,6 +109,21 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ShareextReborn",
 "import": false
 },
+{
+"name": "PLAYIDTVTV TV",
+"image": "https://dl.dropbox.com/s/bbr6c4meonyhkve/livetv.png?dl=0",
+"url": "https://dl.dropboxusercontent.com/s/nhgkamc2wbfvyyh/Playerbox.txt?dl=0",
+"info": "เพลย์ลิสต์รายการทีวีสด",
+"import": false
+},
+{
+"name": "PLAYIDTVTV MOVIE",
+"image": "https://dl.dropbox.com/s/nup0crqp5feq0fe/movieonline.png?dl=0",
+"url": "https://dl.dropbox.com/s/s9y5v8amtmzxhqh/filemovie.txt?dl=0",
+"info": "เพลย์ลิสต์ดูหนังออนไลน์",
+"import": false
+},
+ 
  
 ]
 }
